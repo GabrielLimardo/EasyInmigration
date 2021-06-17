@@ -23,13 +23,13 @@ const controller = {
             user: currentUser
           })
         } else {
-          return res.render('not-found', {
+          return res.render('login', {
             user: currentUser
           });
         }
       })
     } else {
-      return res.render('not-found', {
+      return res.render('login', {
         user
       });
     }
@@ -37,10 +37,8 @@ const controller = {
   //tiene que cargar la nueva informacion a la base de datos
   edit: (req, res) => {
     const errors = validationResult(req);
-
-    if (errors.isEmpty()) {
-
-      db.User.update({
+    
+      db.Users.update({
           username: req.body.username,
           email: req.body.email
         }, {
@@ -50,36 +48,14 @@ const controller = {
 
         })
         .then(() => {
-          db.User.findByPk(req.params.id).then(function (user) {
+          db.Users.findByPk(req.params.id).then(function (user) {
             req.session.user = user
             return res.redirect(req.params.id + "")
           })
         })
-    } else {
-      return res.render("perfil", {
-        errors: errors.mapped(),
-        old: req.body,
-        user: req.session.user
-      });
-    }
 
   },
-  datos: (req, res) => {
-    db.Users.update({
-        address: req.body.Direccion,
-        floor: req.body.Direccion2,
-        PostalCode: req.body.CodPostal,
-        location: req.body.Localidad,
-        Province: req.body.Provincia,
-      }, {
-        where: {
-          id: req.session.user.id
-        }
-      })
-      .then(() => {
-        return res.redirect("/perfil");
-      })
-  },
+  
 
 
   controlarea: (req, res) => {
@@ -138,8 +114,8 @@ const controller = {
 
   updatecontra: (req, res) => {
     let errors = validationResult(req);
-    if (errors.isEmpty()) {
-      Users.findByPk(req.params.id)
+    
+      db.Users.findByPk(req.params.id)
         .then(function (user) {
           return db.Users.update({
             password: req.body.newPassword != "" ? bcrypt.hashSync(req.body.newPassword, 10) : user.password
@@ -154,17 +130,6 @@ const controller = {
         .then(() => {
           return res.redirect('/perfil/' + req.session.user.id);
         })
-
-
-    } else {
-      console.log(JSON.stringify(errors));
-      console.log(errors.mapped())
-      return res.render('cambiarcontra', {
-        user: req.session.user,
-        errors: errors.mapped(),
-        old: req.body
-      })
-    }
   },
   comentario: (req, res) => {
     const user = req.session.user;

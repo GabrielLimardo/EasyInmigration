@@ -115,10 +115,6 @@ a.continuar{
     list-style: none !important;
     color: white !important;
 }
-.w-sectioninverse{
-    display: flex;
-}
-
 .categories{
     list-style: none;
 }
