@@ -22,20 +22,9 @@ const listaController = {
     create: (req, res) => { //te llava a la pagina de creacion
         const user = req.session.user;
         if (typeof user !== 'undefined' && user.rol === 1) {
-            // Do the magic
-            db.Category.findAll()
-                .then((categories) => {
-                    db.Brand.findAll()
-                        .then((brands) => {
-                            return res.render('product-create-form', {
-                                user,
-                                categories,
-                                brands
-                            });
-                        })
-                        .catch(e => console.log(e));
-                })
-                .catch(e => console.log(e));
+
+            return res.render('product-create-form',{user})
+
         } else {
             return res.render('not-found', {
                 user
@@ -46,10 +35,21 @@ const listaController = {
     store: (req, res, next) => {
         db.Product.create({
                 name: req.body.name,
-                descripcion: req.body.descripcion,
-                categoryId: req.body.categoryId,
-                brandId: req.body.brandId,
-                image: req.file.filename
+                Idioma: req.body.Idioma,
+                GastoAlimento: req.body.GastoAlimento,
+                GastoTrasporte: req.body.GastoTrasporte,
+                GastoVivienda: req.body.GastoVivienda,
+                Desempleo: req.body.Desempleo,
+                SalarioMinimo: req.body.SalarioMinimo,
+                SalarioMedio: req.body.SalarioMedio,
+                TipoDeVisado: req.body.TipoDeVisado,
+                ServiciosPublicos: req.body.ServiciosPublicos,
+                PromClima: req.body.PromClima,
+                AltoClima: req.body.AltoClima,
+                BajoClima: req.body.BajoClima,
+                PBI: req.body.PBI,
+                PBIperCapital: req.file.PBIperCapital,
+                Inflacion: req.file.Inflacion
             })
             .then(() => {
                 return res.redirect('/');
@@ -58,25 +58,13 @@ const listaController = {
     edit: (req, res) => {
         const user = req.session.user;
         if (typeof user !== 'undefined' && user.rol === 1) {
-            db.Category.findAll()
-                .then((categories) => {
-                    db.Brand.findAll()
-                        .then((brands) => {
-                            return db.Product.findByPk(req.params.id)
-                                .then(function (product) {
+                            return db.Countries.findByPk(req.params.id)
+                                .then(function (Countries) {
                                     return res.render("product-edit-form", {
-                                        product: product,
+                                        Countries: Countries,
                                         user,
-                                        categories,
-                                        brands
                                     });
                                 });
-                        })
-                        .catch(e => console.log(e));
-
-                })
-
-
         } else {
             return res.render('not-found', {
                 user
@@ -86,11 +74,22 @@ const listaController = {
     update: (req, res) => { //lo actualiza
 
         db.Countries.update({
-            name: req.body.name,
-            descripcion: req.body.descripcion,
-            category: req.body.categoryId,
-            brandId: req.body.brandId,
-            image: req.body.image
+                name: req.body.name,
+                Idioma: req.body.Idioma,
+                GastoAlimento: req.body.GastoAlimento,
+                GastoTrasporte: req.body.GastoTrasporte,
+                GastoVivienda: req.body.GastoVivienda,
+                Desempleo: req.body.Desempleo,
+                SalarioMinimo: req.body.SalarioMinimo,
+                SalarioMedio: req.body.SalarioMedio,
+                TipoDeVisado: req.body.TipoDeVisado,
+                ServiciosPublicos: req.body.ServiciosPublicos,
+                PromClima: req.body.PromClima,
+                AltoClima: req.body.AltoClima,
+                BajoClima: req.body.BajoClima,
+                PBI: req.body.PBI,
+                PBIperCapital: req.file.PBIperCapital,
+                Inflacion: req.file.Inflacion
         }, {
             where: {
                 id: req.params.id

@@ -1,0 +1,117 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<%- include('./partials/head', {title: 'CreateProduct'}) %>
+<link rel="stylesheet" href="/css/register.css">
+
+<body>
+    <!-- Header -->
+    <%- include('./partials/header') %>
+    <div class="encierro">
+        <div class="loginContainer row no-wrap">
+            <main class="login-publi row no-wrap">
+                <div class="loginCompleto">
+                   
+                    
+                    <div class="form-container">
+                        <div class="loginTitulo">AGREGAR PRODUCTO</div>
+                        <form class="loginForm" action="/lista/create" method="POST" autocomplete="off" enctype="multipart/form-data">
+                           
+                            <div class="field-group">
+                                <div class="username">
+									<label for="name" class="form-label">Nombre del producto:</label>
+									<input  class="name" type="text" id="name" name="name" placeholder="Ej: Zapatillas Reebok" class="form-input">
+                                    </p>
+                                </div>
+                                <div class="email"> 
+                                    <label for="price" class="form-label">Idioma:</label>
+									<input  class="emailInput" type="text" id="Idioma" name="price" placeholder="Ej: 5678" class="form-input">
+                                </div>
+                                <div class="descripcion"> 
+                                    <label for="descripcion" class="form-label">GastoAlimento:</label>
+									<input  class="descripcion" type="text" id="GastoAlimento" name="descripcion" placeholder="Ej: 5678" class="form-input">
+                                </div>
+                                <div class="password">
+									<label for="categoryId" class="form-label">GastoTrasporte:></label>
+									<input  class="descripcion" type="text" id="GastoTrasporte" name="descripcion" placeholder="Ej: 5678" class="form-input">
+                                </div>
+                                <div class="password">
+									<label for="categoryId" class="form-label">GastoVivienda:</label>
+									<input  class="descripcion" type="text" id="GastoVivienda" name="descripcion" placeholder="Ej: 5678" class="form-input">
+                                </div>
+                                <div class="password">
+									<label for="categoryId" class="form-label">Desempleo:</label>
+									<input  class="descripcion" type="text" id="Desempleo" name="descripcion" placeholder="Ej: 5678" class="form-input">
+                                </div>
+                                <div class="password">
+									<label for="categoryId" class="form-label">SalarioMinimo:</label>
+									<input  class="descripcion" type="text" id="SalarioMinimo" name="descripcion" placeholder="Ej: 5678" class="form-input">
+                                </div>
+                                <div class="password">
+									<label for="categoryId" class="form-label">SalarioMedio:</label>
+									<input  class="descripcion" type="text" id="SalarioMedio" name="descripcion" placeholder="Ej: 5678" class="form-input">
+                                </div>
+                                <div class="password">
+									<label for="categoryId" class="form-label">TipoDeVisado:</label>
+									<input  class="descripcion" type="text" id="TipoDeVisado" name="descripcion" placeholder="Ej: 5678" class="form-input">
+                                </div>
+                                <div class="password">
+									<label for="categoryId" class="form-label">ServiciosPublicos:</label>
+									<input  class="descripcion" type="text" id="ServiciosPublicos" name="descripcion" placeholder="Ej: 5678" class="form-input">
+                                </div>
+                                <div class="password">
+									<label for="categoryId" class="form-label">PromClima:</label>
+									<input  class="descripcion" type="text" id="PromClima" name="descripcion" placeholder="Ej: 5678" class="form-input">
+                                </div>
+                                <div class="password">
+									<label for="categoryId" class="form-label">AltoClima:</label>
+									<input  class="descripcion" type="text" id="AltoClima" name="descripcion" placeholder="Ej: 5678" class="form-input">
+                                </div>
+                                <div class="password">
+									<label for="categoryId" class="form-label">BajoClima:</label>
+									<input  class="descripcion" type="text" id="BajoClima" name="descripcion" placeholder="Ej: 5678" class="form-input">
+                                </div>
+                                <div class="password">
+									<label for="categoryId" class="form-label">PBI:</label>
+									<input  class="descripcion" type="text" id="PBI" name="descripcion" placeholder="Ej: 5678" class="form-input">
+                                </div>
+                                <div class="password">
+									<label for="categoryId" class="form-label">PBIperCapital:</label>
+									<input  class="descripcion" type="text" id="PBIperCapital" name="descripcion" placeholder="Ej: 5678" class="form-input">
+                                </div>
+                                <div class="password">
+									<label for="categoryId" class="form-label">Inflacion:</label>
+									<input  class="descripcion" type="text" id="Inflacion" name="descripcion" placeholder="Ej: 5678" class="form-input">
+                                </div>
+                                   <div class="remember">
+                                    <label for="image" class="form-label">Imagen:</label>
+                                    <input type="file" id="image" name="image" class="avatarBotton">
+                                    <div>
+                                        <p class="error">
+                                            <%= typeof errors == 'undefined' ? null : errors.image ? errors.image.msg : null %>
+                                        </p>
+                                    </div>
+                                </div>
+                                <div class="col2">
+									<button type="submit" class="buy-now-button">Guardar producto</button>
+								</div>
+                            </div>
+                        </form>
+                        <div class="logoFormulario">
+                            <img src="/img/numero.png" alt="logopP2Tec">
+                        </div>
+                    </div>
+                    
+                </div>
+
+            </main>
+        </div>
+    </div>
+
+
+
+
+
+</body>
+
+</html>
