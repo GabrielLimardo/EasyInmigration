@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+	<%- include('./partials/head', {title: 'index'}) %>
+<body>
+	<%- include('./partials/header') %>
+
+	<main>
+		<div class="pelicula-principal">
+		
+			<div class="filtros">
+				<div class="filtros1">
+				<i class="fas fa-filter"></i>
+				<h2>Filtros</h2>
+				</div>
+				<li>
+					<a href="/idioma"><ul>IDIOMA</ul></a>
+					
+					<a href="/GastoAlimento"><ul>GASTOS ALIMENTO</ul></a>
+					<a href="/GastoTrasporte"><ul>GASTOS TRASPORTE</ul></a>
+					<a href="/GastoVivienda"><ul>GASTOS VIVIENDA</ul></a>
+					
+					<a href="/Industrias"><ul>INDUSTRIAS</ul></a>
+					<a href="/Desempleo"><ul>DESEMPLEO</ul></a>
+					<a href="/SalarioMinimo"><ul>SALARIO MINIMO</ul></a>
+					<a href="/SalarioMedio"><ul>SALARIO MEDIO</ul></a>
+				
+					<a href="/TipoDeVisado"><ul>TIPOS DE VISA</ul></a>
+					<a href="/ServiciosPublicos"><ul>SERVICIOS PUBLICOS</ul></a>
+					<a href="/Inflacion"><ul>INFLACION</ul></a>
+					<a href="/PBIperCapital"><ul>PBI PER CAPITAL</ul></a>
+					<a href="/PBI"><ul>PBI</ul></a>
+					<a href="/AltoClima"><ul>CLIMA ALTO</ul></a>
+					<a href="/PromClima"><ul>CLIMA MEDIO</ul></a>
+					<a href="/BajoClima"><ul>CLIMA MINIMO</ul></a>
+
+				</li>
+			</div>
+		
+					<div id="main-container">
+						<h1>LISTA DE SERVICIOS PUBLICOS</h1>
+						<table>
+							<thead>
+								<tr>
+									<th>BANDERA</th><th>PAIS</th><th>Servicios Publicos </th>
+								</tr>
+							</thead>
+
+							<%  Countries.forEach(p => { %>
+								<tr>
+									<td><a href="/lista/detail/<%=p.id%>"><img class="logoPelicula"src="/img/<%= p.Banderas %>"></a></td><td><a href="/lista/detail/<%=p.id%>"><%= p.name %></a></td><td><%= p.ServiciosPublicos %></td>
+								</tr>
+							<% }) %>
+
+						</table>
+					</div>
+		</div>
+
+		
+	</main>
+
+	
+	<script src="https://kit.fontawesome.com/2c36e9b7b1.js" crossorigin="anonymous"></script>
+	<script src="js/main.js"></script>
+</body>
+</html>

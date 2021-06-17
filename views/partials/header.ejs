@@ -1,0 +1,39 @@
+<body>
+	<script>
+        function logout() {
+            var http = new XMLHttpRequest();
+            var url = '/register/logout';
+            var params = '';
+
+            http.open('POST', url, true);
+            http.onreadystatechange = function () {
+                //Call a function when the state changes.
+                if (http.readyState == 4 && http.status == 200) {
+                    window.location.pathname = '/'
+                } else if(http.readyState == 4) {
+                    alert("Algo salio mal")
+                }
+            }
+            http.send(params);
+        }
+    </script>
+<header>
+	<div class="contenedor">
+		<a href="/" <h2 class="logotipo">EasyInmigration</h2> 
+		<nav>
+			<a href="/" class="activo">Home</a>
+			<a href="/carrito">Saved</a>
+			<% if(typeof user == 'undefined') { %>
+			<a href="/register">Register</a>
+			<a href="/register/login">Login</a>
+			
+			<% } else { %>
+			<a class="navLink" href="/perfil/<%= user.id %>"> <%= user.username %> </a>
+            <a class="logout" onclick="logout()">Cerrar Sesión</a>
+			<img src="/img/<%= user.image %>" alt="" class="imagenperfil">
+			<% } %>
+	
+		</nav>
+	</div>
+</header>
+</body>

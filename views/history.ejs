@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="es">
+<!-- Include Head -->
+<%- include('./partial/head', {title: 'Hystory', image: '/img/numero.png'}) %>
+<link rel="stylesheet" href="/css/carrito.css">
+
+<body>
+   <!-- Header -->
+   <%- include('./partial/header', {user}) %>
+   <!-- /Header -->
+
+   <div class="container products-wrapper">
+      <div class="">
+         <div class="">
+            <h1 class="products-title">Carrito de compras</h1>
+         </div>
+      </div>
+      <div class="history1">
+         <div class="history2">
+            <div class="history3">
+               <% if(carts.length != 0){ %>
+               <% carts.forEach(cart => { %>
+               <div class="historyDesc">
+                  <div class="buyDate">
+                     <h4>Fecha de compra</h4>
+                     <p><%= new Date(cart.createdAt).toLocaleDateString() %></p>
+                  </div>
+                  <div class="historyDescProd">
+                     <ul>
+                        <h5 style="text-align: center; padding-top: 20px; font-size: 32px;">Detalles de la Compra</h5>
+                        <div class="historyContentProd">
+                        <% cart.items.forEach(item => { %>
+                        <div class="historyCartDetails">
+                           <img src="/img/<%= item.product.image %>" alt="imagen" class="historyImgProd"
+                              data="/img/<%= item.product.image %>">
+
+                           <a href="/carrito/buy-detail/<%= cart.id %>" style="width: 100%; text-align: center;">
+                              <p style="color:blue"> <%= item.product.name %> x<%= item.quantity %></p>
+                              <!-- <p style="color: black;"> </p> -->
+                              <p style="color:black"> $<%= item.product.price%> </p>
+                           </a>
+                        </div>
+                        <% }) %>
+                     </div>
+                     </ul>
+                  </div>
+                  <div class="historyPriceProd">
+                     <h4>Precio</h4>
+                     <p> $<%= cart.total %></p>
+                  </div>
+               </div>
+
+               <% }); %>
+
+               <% } else { %>
+               <div class="">
+                  <h2 class="products-title" style="padding: 100px 0; color: tomato;">Aún no tienes compras</h2>
+               </div>
+               <% } %>
+            </div>
+            <div class="">
+               <!-- <h2 class="historyUsername">
+                  <%= locals.user.username %>
+               </h2>
+               <hr> -->
+            </div>
+         </div>
+      </div>
+   </div>
+
+   <!-- footer -->
+   <%- include('partial/footer') %>
+   <!-- /footer -->
+</body>
+
+</html>

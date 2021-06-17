@@ -1,0 +1,74 @@
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+    <%- include('./partials/head', {title: 'register'}) %>
+<link rel="stylesheet" href="/css/register.css">
+
+<body>
+    <!-- Header -->
+    <%- include('./partials/header') %>
+    <div class="encierro">
+        <div class="loginContainer row no-wrap">
+            <main class="login-publi row no-wrap">
+                <div class="loginCompleto">
+                   
+                    
+                    <div class="form-container">
+                        <div class="loginTitulo">REGISTER</div>
+                        <form class="loginForm" action="/register/lod" method="POST" autocomplete="off">
+                           
+                            <div class="field-group">
+                                <div class="username">
+                                    <input class="usernameInput" type="username" id="username" name="name"
+                                        placeholder="Nombre de usuario" value=""
+                                        required><%= typeof errors == 'undefined' ? null : errors.username ? errors.username.msg : null %>
+                                    </p>
+                                </div>
+                                <div class="email"> 
+                                    <input class="emailInput" type="email" id="email" name="email" placeholder="Email" autocomplete="off"
+                                        value="" required>
+                                    <p class="error">
+                                        <%= typeof errors == 'undefined' ? null : errors.email ? errors.email.msg : null %>
+                                    </p>
+                                </div>
+                                <div class="password">
+                                    <input class="passwordInput" type="password" id="passsword" name="password" autocomplete="off" placeholder="Contraseña" value="" required>
+                                    <p class="error">
+                                        <%= typeof errors == 'undefined' ? null : errors.password ? errors.password.msg : null %>
+                                    </p>
+                                </div>
+                                <div class="password">
+                                    <input class="passwordInput" type="password" id="retype" name="retype" placeholder="Repetir contraseña" value="">
+                                    <p class="error" required>
+                                        <%= typeof errors == 'undefined' ? null : errors.retype ? errors.retype.msg : null %>
+                                    </p>
+
+                                    <select name="Paises" class="SelecciondePais" required>
+                                        <option value="arg.png">Argentina</option> 
+                                        <option value="can.png">Canada</option> 
+                                        <option value="aus.png">Australia</option>
+                                        <option value="pan.png">Panama</option> 
+                                        <option value="esp.png">España</option> 
+                                        <option value="irl.png">Irlanda</option> 
+                                     </select>
+                                </div>
+                                 
+
+                                <button class="registerButton" type="submit">Registrarse</button>
+                            </div>
+                        </form>
+                      
+                    </div>
+                    
+                </div>
+
+            </main>
+        </div>
+    </div>
+
+
+</body>
+
+</html>

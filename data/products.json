@@ -1,0 +1,2480 @@
+[
+ {
+  "id": 2,
+  "name": "Disco Solido Ssd 480 GB",
+  "descripcion": "Disco Solido Ssd 480 Gb Kingston A400",
+  "brand": "Kingston",
+  "category": "Discos y SSDs",
+  "price": 7471,
+  "image": "1 (5).jpg",
+  "especial": "NODESTACADO"
+ },
+ {
+  "id": 3,
+  "name": "Disco Solido Ssd 480 Gb ",
+  "descripcion": "Disco Solido Ssd 480 Gb Patriot Burst PBU480GS25SSDR",
+  "brand": "Patriot",
+  "category": "Discos y SSDs",
+  "price": 7261,
+  "image": "1 (21).jpg",
+  "especial": "NODESTACADO"
+ },
+ {
+  "id": 4,
+  "name": "Disco Solido Ssd 480 Gb ",
+  "descripcion": "Disco Solido Ssd 480 Gb Western Digital Green",
+  "brand": "Western Digital",
+  "category": "Discos y SSDs",
+  "price": 7027,
+  "image": "1 (14).jpg",
+  "especial": "NODESTACADO"
+ },
+ {
+  "id": 5,
+  "name": "Disco Solido Ssd 500 Gb ",
+  "descripcion": "Disco Solido Ssd 500 Gb Western Digital Blue",
+  "brand": "Western Digital",
+  "category": "Discos y SSDs",
+  "price": 7769,
+  "image": "1 (5).jpg",
+  "especial": "NODESTACADO"
+ },
+ {
+  "id": 6,
+  "name": "Disco Solido Ssd 960 Gb ",
+  "descripcion": "Disco Solido Ssd 960 Gb Kingston A400",
+  "brand": "Kingston",
+  "category": "Discos y SSDs",
+  "price": 13367,
+  "image": "1 (7).jpg",
+  "especial": "NODESTACADO"
+ },
+ {
+  "id": 7,
+  "name": "Disco Solido Ssd 960 Gb ",
+  "descripcion": "Disco Solido Ssd 960 Gb Patriot Burst PBU960GS25SSDR",
+  "brand": "Patriot",
+  "category": "Discos y SSDs",
+  "price": 12789,
+  "image": "1 (21).jpg",
+  "especial": "NODESTACADO"
+ },
+ {
+  "id": "8",
+  "name": "Disco Solido Ssd M2 2 Tb",
+  "price": "263930",
+  "category": "Monitores",
+  "description": "",
+  "image": "1 (15).jpg"
+ },
+ {
+  "id": 9,
+  "name": "Disco Solido Ssd M2 480 GB",
+  "descripcion": "Disco Solido Ssd M2 480 Gb Adata ASU650NS38-480GT-C",
+  "brand": "Adata",
+  "category": "Discos y SSDs",
+  "price": 6664,
+  "image": "1 (17).jpg",
+  "especial": "NODESTACADO"
+ },
+ {
+  "id": 10,
+  "name": "Disco Solido Ssd M2 500 Gb ",
+  "descripcion": "Disco Solido Ssd M2 500 Gb Western Digital Blue",
+  "brand": "Western Digital",
+  "category": "Discos y SSDs",
+  "price": 8037,
+  "image": "1 (9).jpg",
+  "especial": "DESTACADO"
+ },
+ {
+  "id": 11,
+  "name": "Disco Solido Ssd M2 240 Gb ",
+  "descripcion": "Disco Solido Ssd M2 Nvme 240 Gb Corsair MP510",
+  "brand": "Corsair",
+  "category": "Discos y SSDs",
+  "price": 6793,
+  "image": "1 (8).jpg",
+  "especial": "NODESTACADO"
+ },
+ {
+  "id": 12,
+  "name": "Disco Solido Ssd M2 250 Gb ",
+  "descripcion": "Disco Solido Ssd M2 Nvme 250 Gb Western Digital Black",
+  "brand": "Western Digital",
+  "category": "Discos y SSDs",
+  "price": 7486,
+  "image": "1 (4).jpg",
+  "especial": "NODESTACADO"
+ },
+ {
+  "id": 13,
+  "name": "Disco Solido Ssd M2 256Gb ",
+  "descripcion": "Disco Solido Ssd M2 Nvme 256Gb Patriot VPR100 RGB",
+  "brand": "Patriot",
+  "category": "Discos y SSDs",
+  "price": 8764,
+  "image": "1 (22).jpg",
+  "especial": "NODESTACADO"
+ },
+ {
+  "id": 14,
+  "name": "STREAMING  Y VIDEO  CAPTURADORA GAMING ",
+  "descripcion": "Elgato Capturadora Game Streaming HD 60",
+  "brand": "Elgato",
+  "category": "Streaming",
+  "price": 16619,
+  "image": "1 (1).png",
+  "especial": "NODESTACADO"
+ },
+ {
+  "id": 15,
+  "name": "STREAMING  Y VIDEO  CAPTURADORA GAMING ",
+  "descripcion": "Elgato Stream Deck Mini 6 Botones Lcd",
+  "brand": "Elgato",
+  "category": "Streaming",
+  "price": 8561,
+  "image": "1 (10).jpg",
+  "especial": "NODESTACADO"
+ },
+ {
+  "id": 16,
+  "name": "Fuente Cooler Master 500w",
+  "descripcion": "Fuente Cooler Master MWE 500w 80 Plus Bronze",
+  "brand": "CoolerMaster",
+  "category": "Fuentes de alimentacion",
+  "price": 7514,
+  "image": "1 (26).jpg",
+  "especial": "DESTACADO"
+ },
+ {
+  "id": 17,
+  "name": "Impresora Multifuncion Hp 315",
+  "descripcion": "Impresora Multifuncion Hp 315 Sistema Continuo Original Escaner Color",
+  "brand": "HP",
+  "category": "Impresoras",
+  "price": 17772,
+  "image": "1 (24).jpg",
+  "especial": "NODESTACADO"
+ },
+ {
+  "id": 18,
+  "name": "Impresora Multifuncion Hp 415 ",
+  "descripcion": "Impresora Multifuncion Hp 415 Sistema Continuo Original Escaner Color Wifi",
+  "brand": "HP",
+  "category": "Impresoras",
+  "price": 23564,
+  "image": "1 (39).jpg",
+  "especial": "NODESTACADO"
+ },
+ {
+  "id": 19,
+  "name": "MEMORIA",
+  "descripcion": "Memoria Corsair Vengeance Lpx 16Gb Ddr4 3000Mhz Negro (2x8GB)",
+  "brand": "Corsair",
+  "category": "Memorias RAM",
+  "price": 11788,
+  "image": "1 (28).jpg",
+  "especial": "DESTACADO"
+ },
+ {
+  "id": 20,
+  "name": "MEMORIA",
+  "descripcion": "Memoria Ddr4 16Gb 2400Mhz CL17 (KVR24N17D8/16) Kingston",
+  "brand": "Kingston",
+  "category": "Memorias RAM",
+  "price": 8274,
+  "image": "1 (12).jpg",
+  "especial": "NODESTACADO"
+ },
+ {
+  "id": 21,
+  "name": "MEMORIA",
+  "descripcion": "Memoria HyperX Fury DDR4 2666 CL 16 16Gb (HX426C16FB3/16) Kingston ",
+  "brand": "Kingston",
+  "category": "Memorias RAM",
+  "price": 9049,
+  "image": "1 (20).jpg",
+  "especial": "NODESTACADO"
+ },
+ {
+  "id": 22,
+  "name": "MEMORIA DE NOTEBOOK",
+  "descripcion": "Memoria Mushkin Essentials SODIMM Ddr4 16Gb 2666mhz",
+  "brand": "Mushkin",
+  "category": "Memorias RAM",
+  "price": 7973,
+  "image": "1 (29).jpg",
+  "especial": "NODESTACADO"
+ },
+ {
+  "id": 23,
+  "name": "MICROPROCESADOR AM4",
+  "descripcion": "Microprocesador AMD A8 9600 2MB 3.40 GHz Socket AM4",
+  "brand": "AMD",
+  "category": "Microprocesadores",
+  "price": 6729,
+  "image": "1 (43).jpg",
+  "especial": "NODESTACADO"
+ },
+ {
+  "id": 24,
+  "name": "MICROPROCESADOR AM4",
+  "descripcion": "Microprocesador AMD Athlon 3000G Vega 3 5MB 3.40GHz Socket AM4",
+  "brand": "AMD",
+  "category": "Microprocesadores",
+  "price": 6818,
+  "image": "1 (43).jpg",
+  "especial": "NODESTACADO"
+ },
+ {
+  "id": 25,
+  "name": "MICROPROCESADOR AM4",
+  "descripcion": "Microprocesador AMD Ryzen 3 3200G 4MB 3.60GHz Socket AM4 - 3° Gen",
+  "brand": "AMD",
+  "category": "Microprocesadores",
+  "price": 12728,
+  "image": "1 (2).png",
+  "especial": "NODESTACADO"
+ },
+ {
+  "id": 26,
+  "name": "MICROPROCESADOR AM4",
+  "descripcion": "Microprocesador AMD Ryzen 5 3600 3MB 3.60 GHz Socket AM4 - 3° Gen ",
+  "brand": "AMD",
+  "category": "Microprocesadores",
+  "price": 28645,
+  "image": "1 (33).jpg",
+  "especial": "NODESTACADO"
+ },
+ {
+  "id": 27,
+  "name": "MICROPROCESADOR AM4",
+  "descripcion": "Microprocesador AMD Ryzen 7 3700X 36MB 4.40GHz Socket AM4 - 3° Gen ",
+  "brand": "AMD",
+  "category": "Microprocesadores",
+  "price": 43188,
+  "image": "1 (34).jpg",
+  "especial": "NODESTACADO"
+ },
+ {
+  "id": 28,
+  "name": "MICROPROCESADOR AM4",
+  "descripcion": "Microprocesador AMD Ryzen 7 3800x 36MB 3.90GHz Socket AM4  - 3° Gen",
+  "brand": "AMD",
+  "category": "Microprocesadores",
+  "price": 46074,
+  "image": "1 (34).jpg",
+  "especial": "NODESTACADO"
+ },
+ {
+  "id": 29,
+  "name": "MICROPROCESADOR I3",
+  "descripcion": "Microprocesador Intel I3-8100 6MB 3.60 GHz Socket 1151 - 8° Gen",
+  "brand": "AMD",
+  "category": "Microprocesadores",
+  "price": 13826,
+  "image": "1 (30).jpg",
+  "especial": "NODESTACADO"
+ },
+ {
+  "id": 30,
+  "name": "MICROPROCESADOR I3",
+  "descripcion": "Microprocesador Intel I3-9100 6MB 4.20 GHz Socket 1151 - 9° Gen",
+  "brand": "Intel",
+  "category": "Microprocesadores",
+  "price": 14280,
+  "image": "1 (30).jpg",
+  "especial": "NODESTACADO"
+ },
+ {
+  "id": 31,
+  "name": "MICROPROCESADOR I5",
+  "descripcion": "Microprocesador Intel I5-9400 9MB 2.90 GHz Socket 1151 - 9° Gen",
+  "brand": "Intel",
+  "category": "Microprocesadores",
+  "price": 21537,
+  "image": "1 (1).jpg",
+  "especial": "NODESTACADO"
+ },
+ {
+  "id": 32,
+  "name": "MICROPROCESADOR i7",
+  "descripcion": "Microprocesador Intel I7-9700F 12MB 3.00 GHz Socket 1151 - 9° Gen",
+  "brand": "Intel",
+  "category": "Microprocesadores",
+  "price": 40686,
+  "image": "1 (27).jpg",
+  "especial": "NODESTACADO"
+ },
+ {
+  "id": 33,
+  "name": "MICROPROCESADOR i7",
+  "descripcion": "Microprocesador Intel I7-9700K 12MB 3.60 GHz Socket 1151 - 9° Gen SIN COOLER",
+  "brand": "Intel",
+  "category": "Microprocesadores",
+  "price": 44898,
+  "image": "1 (27).jpg",
+  "especial": "NODESTACADO"
+ },
+ {
+  "id": 34,
+  "name": "MICROPROCESADOR i7",
+  "descripcion": "Microprocesador Intel I7-9700KF 12MB 3.60 GHz Socket 1151 - 9° Gen SIN COOLER",
+  "brand": "Intel",
+  "category": "Microprocesadores",
+  "price": 40996,
+  "image": "1 (27).jpg",
+  "especial": "NODESTACADO"
+ },
+ {
+  "id": 35,
+  "name": "MICROPROCESADOR I9",
+  "descripcion": "Microprocesador Intel I9-9900K 16MB 5.00 GHz Socket 1151 - 9° Gen SIN COOLER",
+  "brand": "Intel",
+  "category": "Microprocesadores",
+  "price": 56820,
+  "image": "1 (32).jpg",
+  "especial": "DESTACADO"
+ },
+ {
+  "ID": 36,
+  "name": "MICROPROCESADOR PENTIUM",
+  "descripcion": "Microprocesador Intel Pentium G5400 4MB 3.70 GHz Socket 1151 - 8° Gen",
+  "brand": "Intel",
+  "category": "Microprocesadores",
+  "price": 7161,
+  "image": "1 (36).jpg",
+  "especial": "NODESTACADO"
+ },
+ {
+  "id": 37,
+  "name": "Monitor Led AOC 15.6",
+  "descripcion": "Monitor Led AOC 15.6 Wide E1670SWU-E USB (incluye imp interno)",
+  "brand": "AOC",
+  "category": "Monitores",
+  "price": 7504,
+  "image": "1 (37).jpg",
+  "especial": "NODESTACADO"
+ },
+ {
+  "id": 38,
+  "name": "Monitor Samsung 22",
+  "descripcion": "Monitor Samsung 22 Full HD S22F350FH - c/Hdmi",
+  "brand": "Samsung",
+  "category": "Monitores",
+  "price": 15094,
+  "image": "1 (38).jpg",
+  "especial": "NODESTACADO"
+ },
+ {
+  "id": 39,
+  "name": "Notebook Hp I5 ",
+  "descripcion": "Notebook Hp I5 250 G7 8265U 8GB 1TB 15.6",
+  "brand": "HP",
+  "category": "Notebooks",
+  "price": 111096,
+  "image": "1 (23).jpg",
+  "especial": "NODESTACADO"
+ },
+ {
+  "id": 40,
+  "name": "Notebook Hp I7 ",
+  "descripcion": "Notebook Hp I7 10510U 8Gb !tb Windows 10 15,6 + GeForece MX 130",
+  "brand": "HP",
+  "category": "Notebooks",
+  "price": 163224,
+  "image": "1 (40).jpg",
+  "especial": "NODESTACADO"
+ },
+ {
+  "id": 41,
+  "name": "PROYECTORES",
+  "descripcion": "Pantalla Intelaid IT-TPS86 de Proyección con tripode 86\"- Blanco Mate - 4:3 1.72 x 1.3Mts.",
+  "brand": "Intelaid",
+  "category": "Proyectores",
+  "price": 7768,
+  "image": "1 (41).jpg",
+  "especial": "NODESTACADO"
+ },
+ {
+  "id": 42,
+  "name": "PROYECTORES",
+  "descripcion": "Pantalla de Proyección Intelaid 150\" Electrica con Control Remoto visión de 160º",
+  "brand": "Intelaid",
+  "category": "Proyectores",
+  "price": 18938,
+  "image": "1 (41).jpg",
+  "especial": "NODESTACADO"
+ },
+ {
+  "id": 43,
+  "name": "PROYECTORES",
+  "descripcion": "Pantalla de Proyección Intelaid IT-SPS100 SELF-LOCK - Blanco Mate - 4:3 (2.00 x 1.5Mts.)",
+  "brand": "Intelaid",
+  "category": "Proyectores",
+  "price": 7349,
+  "image": "1 (41).jpg",
+  "especial": "NODESTACADO"
+ },
+ {
+  "id": 44,
+  "name": "PROYECTORES",
+  "descripcion": "Pantalla de Proyección Intelaid IT-SPS120 SELF-LOCK - 120\"\" - Blanco Mate - 4:3",
+  "brand": "Intelaid",
+  "category": "Proyectores",
+  "price": 12105,
+  "image": "1 (41).jpg",
+  "especial": "NODESTACADO"
+ },
+ {
+  "id": 45,
+  "name": "ACCESS POINT",
+  "descripcion": "Sistema Wi-Fi Mesh Tenda Nova MW3 2-pack AC1200",
+  "brand": "Tenda",
+  "category": "Conectividad",
+  "price": 6954,
+  "image": "1 (18).jpg",
+  "especial": "NODESTACADO"
+ },
+ {
+  "id": 46,
+  "name": "SOPORTE TV/MONITOR /PROYECTOR",
+  "descripcion": "Soporte Intelaid Triple Monitor 13 a 27 Vesa 100",
+  "brand": "Intelaid",
+  "category": "Soportes",
+  "price": 6390,
+  "image": "1 (16).jpg",
+  "especial": "NODESTACADO"
+ },
+ {
+  "id": 47,
+  "name": "CONECTIVIDAD SWITCHS 16 PUERTOS",
+  "descripcion": "Switch 16-port Tp-Link 10/1000 (TL-SG1016)R19",
+  "brand": "Tp-Link",
+  "category": "Conectividad",
+  "price": 6669,
+  "image": "1 (13).jpg",
+  "especial": "NODESTACADO"
+ },
+ {
+  "id": 48,
+  "name": "CONECTIVIDAD SWITCHS",
+  "descripcion": "Switch 16-port Tp-Link 10/1000 + 2 Slots SFP Combo 10/1000 (TL-SG2216)",
+  "brand": "Tp-Link",
+  "category": "Conectividad",
+  "price": 11092,
+  "image": "1 (44).jpg",
+  "especial": "NODESTACADO"
+ },
+ {
+  "id": 49,
+  "name": "CONECTIVIDAD SWITCHS 24 PUERTOS",
+  "descripcion": "Switch 24 Ports 10/100/1000 TEG1024D Tenda",
+  "brand": "Tenda",
+  "category": "Conectividad",
+  "price": 7394,
+  "image": "conectividad.jpg",
+  "especial": "NODESTACADO"
+ },
+ {
+  "id": 50,
+  "name": "TABLETAS DIGITALIZADORAS",
+  "descripcion": "Tableta Digitalizadora Wacom Intuos Small Negra + 3 Soft Gratis",
+  "brand": "Wacom",
+  "category": "Tabletas",
+  "price": 7147,
+  "image": "1 (11).jpg",
+  "especial": "NODESTACADO"
+ },
+ {
+  "id": 53,
+  "name": "Notebook Alienware I7 ",
+  "descripcion": "17r5 Intel Core I7-8750h X6 2.2ghz 16gb 1.1tb 17 ",
+  "brand": "Alienware",
+  "category": "Notebooks",
+  "price": 240000,
+  "image": "alien.jpg",
+  "especial": "NODESTACADO"
+ },
+ {
+  "id": 54,
+  "name": "Monitor Gamer Curvo 34'",
+  "descripcion": "Monitor Ultrawide Ips Gsync Wfhd 144hz 1ms H",
+  "brand": "Samsung",
+  "category": "Monitores",
+  "price": 15094,
+  "image": "monitorcurvo.jpg",
+  "especial": "DESTACADO"
+ },
+ {
+  "id": "55",
+  "name": "PC Home Office",
+  "descripcion": "Intel Core I3 8100 - H310 - 8GB - 240GB SSD",
+  "brand": "PC Home Office",
+  "category": "pc office",
+  "price": "40261",
+  "image": "PC-Oficina-2_800.jpg",
+  "especial": "NODESTACADO"
+ },
+ {
+  "id": "56",
+  "name": "PC Home Office",
+  "descripcion": " Intel Core I3 9100F - H310 - 8GB - GT 210 - 240GB SSD",
+  "brand": "PC Home Office",
+  "category": "pc office",
+  "price": "39660",
+  "image": "PC-Oficina-2_800.jpg",
+  "especial": "NODESTACADO"
+ },
+ {
+  "id": "57",
+  "name": "PC Home Office",
+  "descripcion": "Intel Pentium G5400 - H310 - 8GB - 240GB SSD",
+  "brand": "PC Home Office",
+  "category": "pc office",
+  "price": "32343",
+  "image": "PC-Oficina-2_800.jpg",
+  "especial": "NODESTACADO"
+ },
+ {
+  "id": "58",
+  "name": "PC Streaming",
+  "descripcion": "Intel I5 9400 - B365 - 8GB - GTX 1650 S - 1TB",
+  "category": "pc streming",
+  "price": "82768",
+  "image": "PC-Streaming-5_800.jpg",
+  "especial": "NODESTACADO"
+ },
+ {
+  "id": "59",
+  "name": "PC Streaming",
+  "descripcion": "Intel I5 9400 - B365 - 16GB - GTX 1660 Ti - 240GB SSD - 1TB",
+  "category": "pc streming",
+  "price": "108012",
+  "image": "PC-Streaming-5_800.jpg",
+  "especial": "NODESTACADO"
+ },
+ {
+  "id": "60",
+  "name": "PC Streaming",
+  "descripcion": "AMD Ryzen 5 3600 - B450 - 16GB - RX 5600 XT - 240GB SSD - 1T",
+  "category": "pc streming",
+  "price": "110554",
+  "image": "PC-Streaming-5_800.jpg",
+  "especial": "NODESTACADO"
+ },
+ {
+  "id": "61",
+  "name": "PC Diseño",
+  "descripcion": "INTEL I7 9700F - B365 - 16GB - RTX 2060 S - 240GB SSD - 1TB",
+  "category": "pcdiseno",
+  "price": "144338",
+  "image": "PC-Diseño-6_800.jpg",
+  "especial": "NODESTACADO"
+ },
+ {
+  "id": "62",
+  "name": "PC Diseño",
+  "descripcion": "AMD R5 3600 - B450 - 16GB - RX 5600 XT - 240GB SSD - 1TB",
+  "category": "pcdiseno",
+  "price": "110554",
+  "image": "PC-Diseño-6_800.jpg",
+  "especial": "NODESTACADO"
+ },
+ {
+  "id": "63",
+  "name": "PC Diseño",
+  "descripcion": " AMD R5 3600 - B450 - 8GB - GTX 1660 Ti - 240GB SSD - 1TB",
+  "category": "pcdiseno",
+  "price": "107693",
+  "image": "PC-Diseño-6_800.jpg",
+  "especial": "NODESTACADO"
+ },
+ [
+  {
+   "id": 1,
+   "name": "Disco Solido Ssd 2 TB",
+   "descripcion": "Disco Solido Ssd 2 Tb Western Digital Blue",
+   "brand": "Western Digital",
+   "category": "Discos y SSDs",
+   "price": 26729,
+   "image": "1 (14).jpg",
+   "especial": "NODESTACADO"
+  },
+  {
+   "id": 2,
+   "name": "Disco Solido Ssd 480 GB",
+   "descripcion": "Disco Solido Ssd 480 Gb Kingston A400",
+   "brand": "Kingston",
+   "category": "Discos y SSDs",
+   "price": 7471,
+   "image": "1 (5).jpg",
+   "especial": "NODESTACADO"
+  },
+  {
+   "id": 3,
+   "name": "Disco Solido Ssd 480 Gb ",
+   "descripcion": "Disco Solido Ssd 480 Gb Patriot Burst PBU480GS25SSDR",
+   "brand": "Patriot",
+   "category": "Discos y SSDs",
+   "price": 7261,
+   "image": "1 (21).jpg",
+   "especial": "NODESTACADO"
+  },
+  {
+   "id": 4,
+   "name": "Disco Solido Ssd 480 Gb ",
+   "descripcion": "Disco Solido Ssd 480 Gb Western Digital Green",
+   "brand": "Western Digital",
+   "category": "Discos y SSDs",
+   "price": 7027,
+   "image": "1 (14).jpg",
+   "especial": "NODESTACADO"
+  },
+  {
+   "id": 5,
+   "name": "Disco Solido Ssd 500 Gb ",
+   "descripcion": "Disco Solido Ssd 500 Gb Western Digital Blue",
+   "brand": "Western Digital",
+   "category": "Discos y SSDs",
+   "price": 7769,
+   "image": "1 (5).jpg",
+   "especial": "NODESTACADO"
+  },
+  {
+   "id": 6,
+   "name": "Disco Solido Ssd 960 Gb ",
+   "descripcion": "Disco Solido Ssd 960 Gb Kingston A400",
+   "brand": "Kingston",
+   "category": "Discos y SSDs",
+   "price": 13367,
+   "image": "1 (7).jpg",
+   "especial": "NODESTACADO"
+  },
+  {
+   "id": 7,
+   "name": "Disco Solido Ssd 960 Gb ",
+   "descripcion": "Disco Solido Ssd 960 Gb Patriot Burst PBU960GS25SSDR",
+   "brand": "Patriot",
+   "category": "Discos y SSDs",
+   "price": 12789,
+   "image": "1 (21).jpg",
+   "especial": "NODESTACADO"
+  },
+  {
+   "id": 8,
+   "name": "Disco Solido Ssd M2 2 Tb",
+   "descripcion": "Disco Solido Ssd M2 2 Tb Western Digital Blue",
+   "brand": "Western Digital",
+   "category": "Discos y SSDs",
+   "price": 26393,
+   "image": "1 (15).jpg",
+   "especial": "NODESTACADO"
+  },
+  {
+   "id": 9,
+   "name": "Disco Solido Ssd M2 480 GB",
+   "descripcion": "Disco Solido Ssd M2 480 Gb Adata ASU650NS38-480GT-C",
+   "brand": "Adata",
+   "category": "Discos y SSDs",
+   "price": 6664,
+   "image": "1 (17).jpg",
+   "especial": "NODESTACADO"
+  },
+  {
+   "id": 10,
+   "name": "Disco Solido Ssd M2 500 Gb ",
+   "descripcion": "Disco Solido Ssd M2 500 Gb Western Digital Blue",
+   "brand": "Western Digital",
+   "category": "Discos y SSDs",
+   "price": 8037,
+   "image": "1 (9).jpg",
+   "especial": "DESTACADO"
+  },
+  {
+   "id": 11,
+   "name": "Disco Solido Ssd M2 240 Gb ",
+   "descripcion": "Disco Solido Ssd M2 Nvme 240 Gb Corsair MP510",
+   "brand": "Corsair",
+   "category": "Discos y SSDs",
+   "price": 6793,
+   "image": "1 (8).jpg",
+   "especial": "NODESTACADO"
+  },
+  {
+   "id": 12,
+   "name": "Disco Solido Ssd M2 250 Gb ",
+   "descripcion": "Disco Solido Ssd M2 Nvme 250 Gb Western Digital Black",
+   "brand": "Western Digital",
+   "category": "Discos y SSDs",
+   "price": 7486,
+   "image": "1 (4).jpg",
+   "especial": "NODESTACADO"
+  },
+  {
+   "id": 13,
+   "name": "Disco Solido Ssd M2 256Gb ",
+   "descripcion": "Disco Solido Ssd M2 Nvme 256Gb Patriot VPR100 RGB",
+   "brand": "Patriot",
+   "category": "Discos y SSDs",
+   "price": 8764,
+   "image": "1 (22).jpg",
+   "especial": "NODESTACADO"
+  },
+  {
+   "id": 14,
+   "name": "STREAMING  Y VIDEO  CAPTURADORA GAMING ",
+   "descripcion": "Elgato Capturadora Game Streaming HD 60",
+   "brand": "Elgato",
+   "category": "Streaming",
+   "price": 16619,
+   "image": "1 (1).png",
+   "especial": "NODESTACADO"
+  },
+  {
+   "id": 15,
+   "name": "STREAMING  Y VIDEO  CAPTURADORA GAMING ",
+   "descripcion": "Elgato Stream Deck Mini 6 Botones Lcd",
+   "brand": "Elgato",
+   "category": "Streaming",
+   "price": 8561,
+   "image": "1 (10).jpg",
+   "especial": "NODESTACADO"
+  },
+  {
+   "id": 16,
+   "name": "Fuente Cooler Master 500w",
+   "descripcion": "Fuente Cooler Master MWE 500w 80 Plus Bronze",
+   "brand": "CoolerMaster",
+   "category": "Fuentes de alimentacion",
+   "price": 7514,
+   "image": "1 (26).jpg",
+   "especial": "DESTACADO"
+  },
+  {
+   "id": 17,
+   "name": "Impresora Multifuncion Hp 315",
+   "descripcion": "Impresora Multifuncion Hp 315 Sistema Continuo Original Escaner Color",
+   "brand": "HP",
+   "category": "Impresoras",
+   "price": 17772,
+   "image": "1 (24).jpg",
+   "especial": "NODESTACADO"
+  },
+  {
+   "id": 18,
+   "name": "Impresora Multifuncion Hp 415 ",
+   "descripcion": "Impresora Multifuncion Hp 415 Sistema Continuo Original Escaner Color Wifi",
+   "brand": "HP",
+   "category": "Impresoras",
+   "price": 23564,
+   "image": "1 (39).jpg",
+   "especial": "NODESTACADO"
+  },
+  {
+   "id": 19,
+   "name": "MEMORIA",
+   "descripcion": "Memoria Corsair Vengeance Lpx 16Gb Ddr4 3000Mhz Negro (2x8GB)",
+   "brand": "Corsair",
+   "category": "Memorias RAM",
+   "price": 11788,
+   "image": "1 (28).jpg",
+   "especial": "DESTACADO"
+  },
+  {
+   "id": 20,
+   "name": "MEMORIA",
+   "descripcion": "Memoria Ddr4 16Gb 2400Mhz CL17 (KVR24N17D8/16) Kingston",
+   "brand": "Kingston",
+   "category": "Memorias RAM",
+   "price": 8274,
+   "image": "1 (12).jpg",
+   "especial": "NODESTACADO"
+  },
+  {
+   "id": 21,
+   "name": "MEMORIA",
+   "descripcion": "Memoria HyperX Fury DDR4 2666 CL 16 16Gb (HX426C16FB3/16) Kingston ",
+   "brand": "Kingston",
+   "category": "Memorias RAM",
+   "price": 9049,
+   "image": "1 (20).jpg",
+   "especial": "NODESTACADO"
+  },
+  {
+   "id": 22,
+   "name": "MEMORIA DE NOTEBOOK",
+   "descripcion": "Memoria Mushkin Essentials SODIMM Ddr4 16Gb 2666mhz",
+   "brand": "Mushkin",
+   "category": "Memorias RAM",
+   "price": 7973,
+   "image": "1 (29).jpg",
+   "especial": "NODESTACADO"
+  },
+  {
+   "id": 23,
+   "name": "MICROPROCESADOR AM4",
+   "descripcion": "Microprocesador AMD A8 9600 2MB 3.40 GHz Socket AM4",
+   "brand": "AMD",
+   "category": "Microprocesadores",
+   "price": 6729,
+   "image": "1 (43).jpg",
+   "especial": "NODESTACADO"
+  },
+  {
+   "id": 24,
+   "name": "MICROPROCESADOR AM4",
+   "descripcion": "Microprocesador AMD Athlon 3000G Vega 3 5MB 3.40GHz Socket AM4",
+   "brand": "AMD",
+   "category": "Microprocesadores",
+   "price": 6818,
+   "image": "1 (43).jpg",
+   "especial": "NODESTACADO"
+  },
+  {
+   "id": 25,
+   "name": "MICROPROCESADOR AM4",
+   "descripcion": "Microprocesador AMD Ryzen 3 3200G 4MB 3.60GHz Socket AM4 - 3° Gen",
+   "brand": "AMD",
+   "category": "Microprocesadores",
+   "price": 12728,
+   "image": "1 (2).png",
+   "especial": "NODESTACADO"
+  },
+  {
+   "id": 26,
+   "name": "MICROPROCESADOR AM4",
+   "descripcion": "Microprocesador AMD Ryzen 5 3600 3MB 3.60 GHz Socket AM4 - 3° Gen ",
+   "brand": "AMD",
+   "category": "Microprocesadores",
+   "price": 28645,
+   "image": "1 (33).jpg",
+   "especial": "NODESTACADO"
+  },
+  {
+   "id": 27,
+   "name": "MICROPROCESADOR AM4",
+   "descripcion": "Microprocesador AMD Ryzen 7 3700X 36MB 4.40GHz Socket AM4 - 3° Gen ",
+   "brand": "AMD",
+   "category": "Microprocesadores",
+   "price": 43188,
+   "image": "1 (34).jpg",
+   "especial": "NODESTACADO"
+  },
+  {
+   "id": 28,
+   "name": "MICROPROCESADOR AM4",
+   "descripcion": "Microprocesador AMD Ryzen 7 3800x 36MB 3.90GHz Socket AM4  - 3° Gen",
+   "brand": "AMD",
+   "category": "Microprocesadores",
+   "price": 46074,
+   "image": "1 (34).jpg",
+   "especial": "NODESTACADO"
+  },
+  {
+   "id": 29,
+   "name": "MICROPROCESADOR I3",
+   "descripcion": "Microprocesador Intel I3-8100 6MB 3.60 GHz Socket 1151 - 8° Gen",
+   "brand": "AMD",
+   "category": "Microprocesadores",
+   "price": 13826,
+   "image": "1 (30).jpg",
+   "especial": "NODESTACADO"
+  },
+  {
+   "id": 30,
+   "name": "MICROPROCESADOR I3",
+   "descripcion": "Microprocesador Intel I3-9100 6MB 4.20 GHz Socket 1151 - 9° Gen",
+   "brand": "Intel",
+   "category": "Microprocesadores",
+   "price": 14280,
+   "image": "1 (30).jpg",
+   "especial": "NODESTACADO"
+  },
+  {
+   "id": 31,
+   "name": "MICROPROCESADOR I5",
+   "descripcion": "Microprocesador Intel I5-9400 9MB 2.90 GHz Socket 1151 - 9° Gen",
+   "brand": "Intel",
+   "category": "Microprocesadores",
+   "price": 21537,
+   "image": "1 (1).jpg",
+   "especial": "NODESTACADO"
+  },
+  {
+   "id": 32,
+   "name": "MICROPROCESADOR i7",
+   "descripcion": "Microprocesador Intel I7-9700F 12MB 3.00 GHz Socket 1151 - 9° Gen",
+   "brand": "Intel",
+   "category": "Microprocesadores",
+   "price": 40686,
+   "image": "1 (27).jpg",
+   "especial": "NODESTACADO"
+  },
+  {
+   "id": 33,
+   "name": "MICROPROCESADOR i7",
+   "descripcion": "Microprocesador Intel I7-9700K 12MB 3.60 GHz Socket 1151 - 9° Gen SIN COOLER",
+   "brand": "Intel",
+   "category": "Microprocesadores",
+   "price": 44898,
+   "image": "1 (27).jpg",
+   "especial": "NODESTACADO"
+  },
+  {
+   "id": 34,
+   "name": "MICROPROCESADOR i7",
+   "descripcion": "Microprocesador Intel I7-9700KF 12MB 3.60 GHz Socket 1151 - 9° Gen SIN COOLER",
+   "brand": "Intel",
+   "category": "Microprocesadores",
+   "price": 40996,
+   "image": "1 (27).jpg",
+   "especial": "NODESTACADO"
+  },
+  {
+   "id": 35,
+   "name": "MICROPROCESADOR I9",
+   "descripcion": "Microprocesador Intel I9-9900K 16MB 5.00 GHz Socket 1151 - 9° Gen SIN COOLER",
+   "brand": "Intel",
+   "category": "Microprocesadores",
+   "price": 56820,
+   "image": "1 (32).jpg",
+   "especial": "DESTACADO"
+  },
+  {
+   "ID": 36,
+   "name": "MICROPROCESADOR PENTIUM",
+   "descripcion": "Microprocesador Intel Pentium G5400 4MB 3.70 GHz Socket 1151 - 8° Gen",
+   "brand": "Intel",
+   "category": "Microprocesadores",
+   "price": 7161,
+   "image": "1 (36).jpg",
+   "especial": "NODESTACADO"
+  },
+  {
+   "id": 37,
+   "name": "Monitor Led AOC 15.6",
+   "descripcion": "Monitor Led AOC 15.6 Wide E1670SWU-E USB (incluye imp interno)",
+   "brand": "AOC",
+   "category": "Monitores",
+   "price": 7504,
+   "image": "1 (37).jpg",
+   "especial": "NODESTACADO"
+  },
+  {
+   "id": 38,
+   "name": "Monitor Samsung 22",
+   "descripcion": "Monitor Samsung 22 Full HD S22F350FH - c/Hdmi",
+   "brand": "Samsung",
+   "category": "Monitores",
+   "price": 15094,
+   "image": "1 (38).jpg",
+   "especial": "NODESTACADO"
+  },
+  {
+   "id": 39,
+   "name": "Notebook Hp I5 ",
+   "descripcion": "Notebook Hp I5 250 G7 8265U 8GB 1TB 15.6",
+   "brand": "HP",
+   "category": "Notebooks",
+   "price": 111096,
+   "image": "1 (23).jpg",
+   "especial": "NODESTACADO"
+  },
+  {
+   "id": 40,
+   "name": "Notebook Hp I7 ",
+   "descripcion": "Notebook Hp I7 10510U 8Gb !tb Windows 10 15,6 + GeForece MX 130",
+   "brand": "HP",
+   "category": "Notebooks",
+   "price": 163224,
+   "image": "1 (40).jpg",
+   "especial": "NODESTACADO"
+  },
+  {
+   "id": 41,
+   "name": "PROYECTORES",
+   "descripcion": "Pantalla Intelaid IT-TPS86 de Proyección con tripode 86\"- Blanco Mate - 4:3 1.72 x 1.3Mts.",
+   "brand": "Intelaid",
+   "category": "Proyectores",
+   "price": 7768,
+   "image": "1 (41).jpg",
+   "especial": "NODESTACADO"
+  },
+  {
+   "id": 42,
+   "name": "PROYECTORES",
+   "descripcion": "Pantalla de Proyección Intelaid 150\" Electrica con Control Remoto visión de 160º",
+   "brand": "Intelaid",
+   "category": "Proyectores",
+   "price": 18938,
+   "image": "1 (41).jpg",
+   "especial": "NODESTACADO"
+  },
+  {
+   "id": 43,
+   "name": "PROYECTORES",
+   "descripcion": "Pantalla de Proyección Intelaid IT-SPS100 SELF-LOCK - Blanco Mate - 4:3 (2.00 x 1.5Mts.)",
+   "brand": "Intelaid",
+   "category": "Proyectores",
+   "price": 7349,
+   "image": "1 (41).jpg",
+   "especial": "NODESTACADO"
+  },
+  {
+   "id": 44,
+   "name": "PROYECTORES",
+   "descripcion": "Pantalla de Proyección Intelaid IT-SPS120 SELF-LOCK - 120\"\" - Blanco Mate - 4:3",
+   "brand": "Intelaid",
+   "category": "Proyectores",
+   "price": 12105,
+   "image": "1 (41).jpg",
+   "especial": "NODESTACADO"
+  },
+  {
+   "id": 45,
+   "name": "ACCESS POINT",
+   "descripcion": "Sistema Wi-Fi Mesh Tenda Nova MW3 2-pack AC1200",
+   "brand": "Tenda",
+   "category": "Conectividad",
+   "price": 6954,
+   "image": "1 (18).jpg",
+   "especial": "NODESTACADO"
+  },
+  {
+   "id": 46,
+   "name": "SOPORTE TV/MONITOR /PROYECTOR",
+   "descripcion": "Soporte Intelaid Triple Monitor 13 a 27 Vesa 100",
+   "brand": "Intelaid",
+   "category": "Soportes",
+   "price": 6390,
+   "image": "1 (16).jpg",
+   "especial": "NODESTACADO"
+  },
+  {
+   "id": 47,
+   "name": "CONECTIVIDAD SWITCHS 16 PUERTOS",
+   "descripcion": "Switch 16-port Tp-Link 10/1000 (TL-SG1016)R19",
+   "brand": "Tp-Link",
+   "category": "Conectividad",
+   "price": 6669,
+   "image": "1 (13).jpg",
+   "especial": "NODESTACADO"
+  },
+  {
+   "id": 48,
+   "name": "CONECTIVIDAD SWITCHS",
+   "descripcion": "Switch 16-port Tp-Link 10/1000 + 2 Slots SFP Combo 10/1000 (TL-SG2216)",
+   "brand": "Tp-Link",
+   "category": "Conectividad",
+   "price": 11092,
+   "image": "1 (44).jpg",
+   "especial": "NODESTACADO"
+  },
+  {
+   "id": 49,
+   "name": "CONECTIVIDAD SWITCHS 24 PUERTOS",
+   "descripcion": "Switch 24 Ports 10/100/1000 TEG1024D Tenda",
+   "brand": "Tenda",
+   "category": "Conectividad",
+   "price": 7394,
+   "image": "conectividad.jpg",
+   "especial": "NODESTACADO"
+  },
+  {
+   "id": 50,
+   "name": "TABLETAS DIGITALIZADORAS",
+   "descripcion": "Tableta Digitalizadora Wacom Intuos Small Negra + 3 Soft Gratis",
+   "brand": "Wacom",
+   "category": "Tabletas",
+   "price": 7147,
+   "image": "1 (11).jpg",
+   "especial": "NODESTACADO"
+  },
+  {
+   "id": 51,
+   "name": "TECLADO GAMER",
+   "descripcion": "Teclado Gamer Corsair K70 RGB MK.2 Mechanical Gaming CHERRY® MX Blue",
+   "brand": "Corsair",
+   "category": "Teclados",
+   "price": 15357,
+   "image": "1 (45).jpg",
+   "especial": "DESTACADO"
+  },
+  {
+   "id": 52,
+   "name": "Pc Armada Gamer ",
+   "descripcion": "ESPECIFICACIONES TÉCNICAS - Amd Ryzen 5 3400g 1tb 8g Ddr4 Radeon Rx Vega",
+   "brand": "AMD",
+   "category": "Pc",
+   "price": 52499,
+   "image": "1 (42).jpg",
+   "especial": "NODESTACADO"
+  },
+  {
+   "id": 53,
+   "name": "Notebook Alienware I7 ",
+   "descripcion": "17r5 Intel Core I7-8750h X6 2.2ghz 16gb 1.1tb 17 ",
+   "brand": "Alienware",
+   "category": "Notebooks",
+   "price": 240000,
+   "image": "alien.jpg",
+   "especial": "NODESTACADO"
+  },
+  {
+   "id": 54,
+   "name": "Monitor Gamer Curvo 34'",
+   "descripcion": "Monitor Ultrawide Ips Gsync Wfhd 144hz 1ms H",
+   "brand": "Samsung",
+   "category": "Monitores",
+   "price": 15094,
+   "image": "monitorcurvo.jpg",
+   "especial": "DESTACADO"
+  },
+  {
+   "id": "55",
+   "name": "PC Home Office",
+   "descripcion": "Intel Core I3 8100 - H310 - 8GB - 240GB SSD",
+   "brand": "PC Home Office",
+   "category": "pc office",
+   "price": "40261",
+   "image": "PC-Oficina-2_800.jpg",
+   "especial": "NODESTACADO"
+  },
+  {
+   "id": "56",
+   "name": "PC Home Office",
+   "descripcion": " Intel Core I3 9100F - H310 - 8GB - GT 210 - 240GB SSD",
+   "brand": "PC Home Office",
+   "category": "pc office",
+   "price": "39660",
+   "image": "PC-Oficina-2_800.jpg",
+   "especial": "NODESTACADO"
+  },
+  {
+   "id": "57",
+   "name": "PC Home Office",
+   "descripcion": "Intel Pentium G5400 - H310 - 8GB - 240GB SSD",
+   "brand": "PC Home Office",
+   "category": "pc office",
+   "price": "32343",
+   "image": "PC-Oficina-2_800.jpg",
+   "especial": "NODESTACADO"
+  },
+  {
+   "id": "58",
+   "name": "PC Streaming",
+   "descripcion": "Intel I5 9400 - B365 - 8GB - GTX 1650 S - 1TB",
+   "category": "pc streming",
+   "price": "82768",
+   "image": "PC-Streaming-5_800.jpg",
+   "especial": "NODESTACADO"
+  },
+  {
+   "id": "59",
+   "name": "PC Streaming",
+   "descripcion": "Intel I5 9400 - B365 - 16GB - GTX 1660 Ti - 240GB SSD - 1TB",
+   "category": "pc streming",
+   "price": "108012",
+   "image": "PC-Streaming-5_800.jpg",
+   "especial": "NODESTACADO"
+  },
+  {
+   "id": "60",
+   "name": "PC Streaming",
+   "descripcion": "AMD Ryzen 5 3600 - B450 - 16GB - RX 5600 XT - 240GB SSD - 1T",
+   "category": "pc streming",
+   "price": "110554",
+   "image": "PC-Streaming-5_800.jpg",
+   "especial": "NODESTACADO"
+  },
+  {
+   "id": "61",
+   "name": "PC Diseño",
+   "descripcion": "INTEL I7 9700F - B365 - 16GB - RTX 2060 S - 240GB SSD - 1TB",
+   "category": "pcdiseno",
+   "price": "144338",
+   "image": "PC-Diseño-6_800.jpg",
+   "especial": "NODESTACADO"
+  },
+  {
+   "id": "62",
+   "name": "PC Diseño",
+   "descripcion": "AMD R5 3600 - B450 - 16GB - RX 5600 XT - 240GB SSD - 1TB",
+   "category": "pcdiseno",
+   "price": "110554",
+   "image": "PC-Diseño-6_800.jpg",
+   "especial": "NODESTACADO"
+  },
+  {
+   "id": "63",
+   "name": "PC Diseño",
+   "descripcion": " AMD R5 3600 - B450 - 8GB - GTX 1660 Ti - 240GB SSD - 1TB",
+   "category": "pcdiseno",
+   "price": "107693",
+   "image": "PC-Diseño-6_800.jpg",
+   "especial": "NODESTACADO"
+  }
+ ],
+ [
+  {
+   "id": 1,
+   "name": "Disco Solido Ssd 2 TB",
+   "descripcion": "Disco Solido Ssd 2 Tb Western Digital Blue",
+   "brand": "Western Digital",
+   "category": "Discos y SSDs",
+   "price": 26729,
+   "image": "1 (14).jpg",
+   "especial": "NODESTACADO"
+  },
+  {
+   "id": 2,
+   "name": "Disco Solido Ssd 480 GB",
+   "descripcion": "Disco Solido Ssd 480 Gb Kingston A400",
+   "brand": "Kingston",
+   "category": "Discos y SSDs",
+   "price": 7471,
+   "image": "1 (5).jpg",
+   "especial": "NODESTACADO"
+  },
+  {
+   "id": 3,
+   "name": "Disco Solido Ssd 480 Gb ",
+   "descripcion": "Disco Solido Ssd 480 Gb Patriot Burst PBU480GS25SSDR",
+   "brand": "Patriot",
+   "category": "Discos y SSDs",
+   "price": 7261,
+   "image": "1 (21).jpg",
+   "especial": "NODESTACADO"
+  },
+  {
+   "id": 4,
+   "name": "Disco Solido Ssd 480 Gb ",
+   "descripcion": "Disco Solido Ssd 480 Gb Western Digital Green",
+   "brand": "Western Digital",
+   "category": "Discos y SSDs",
+   "price": 7027,
+   "image": "1 (14).jpg",
+   "especial": "NODESTACADO"
+  },
+  {
+   "id": 5,
+   "name": "Disco Solido Ssd 500 Gb ",
+   "descripcion": "Disco Solido Ssd 500 Gb Western Digital Blue",
+   "brand": "Western Digital",
+   "category": "Discos y SSDs",
+   "price": 7769,
+   "image": "1 (5).jpg",
+   "especial": "NODESTACADO"
+  },
+  {
+   "id": 6,
+   "name": "Disco Solido Ssd 960 Gb ",
+   "descripcion": "Disco Solido Ssd 960 Gb Kingston A400",
+   "brand": "Kingston",
+   "category": "Discos y SSDs",
+   "price": 13367,
+   "image": "1 (7).jpg",
+   "especial": "NODESTACADO"
+  },
+  {
+   "id": 7,
+   "name": "Disco Solido Ssd 960 Gb ",
+   "descripcion": "Disco Solido Ssd 960 Gb Patriot Burst PBU960GS25SSDR",
+   "brand": "Patriot",
+   "category": "Discos y SSDs",
+   "price": 12789,
+   "image": "1 (21).jpg",
+   "especial": "NODESTACADO"
+  },
+  {
+   "id": 8,
+   "name": "Disco Solido Ssd M2 2 Tb",
+   "descripcion": "Disco Solido Ssd M2 2 Tb Western Digital Blue",
+   "brand": "Western Digital",
+   "category": "Discos y SSDs",
+   "price": 26393,
+   "image": "1 (15).jpg",
+   "especial": "NODESTACADO"
+  },
+  {
+   "id": 9,
+   "name": "Disco Solido Ssd M2 480 GB",
+   "descripcion": "Disco Solido Ssd M2 480 Gb Adata ASU650NS38-480GT-C",
+   "brand": "Adata",
+   "category": "Discos y SSDs",
+   "price": 6664,
+   "image": "1 (17).jpg",
+   "especial": "NODESTACADO"
+  },
+  {
+   "id": 10,
+   "name": "Disco Solido Ssd M2 500 Gb ",
+   "descripcion": "Disco Solido Ssd M2 500 Gb Western Digital Blue",
+   "brand": "Western Digital",
+   "category": "Discos y SSDs",
+   "price": 8037,
+   "image": "1 (9).jpg",
+   "especial": "DESTACADO"
+  },
+  {
+   "id": 11,
+   "name": "Disco Solido Ssd M2 240 Gb ",
+   "descripcion": "Disco Solido Ssd M2 Nvme 240 Gb Corsair MP510",
+   "brand": "Corsair",
+   "category": "Discos y SSDs",
+   "price": 6793,
+   "image": "1 (8).jpg",
+   "especial": "NODESTACADO"
+  },
+  {
+   "id": 12,
+   "name": "Disco Solido Ssd M2 250 Gb ",
+   "descripcion": "Disco Solido Ssd M2 Nvme 250 Gb Western Digital Black",
+   "brand": "Western Digital",
+   "category": "Discos y SSDs",
+   "price": 7486,
+   "image": "1 (4).jpg",
+   "especial": "NODESTACADO"
+  },
+  {
+   "id": 13,
+   "name": "Disco Solido Ssd M2 256Gb ",
+   "descripcion": "Disco Solido Ssd M2 Nvme 256Gb Patriot VPR100 RGB",
+   "brand": "Patriot",
+   "category": "Discos y SSDs",
+   "price": 8764,
+   "image": "1 (22).jpg",
+   "especial": "NODESTACADO"
+  },
+  {
+   "id": 14,
+   "name": "STREAMING  Y VIDEO  CAPTURADORA GAMING ",
+   "descripcion": "Elgato Capturadora Game Streaming HD 60",
+   "brand": "Elgato",
+   "category": "Streaming",
+   "price": 16619,
+   "image": "1 (1).png",
+   "especial": "NODESTACADO"
+  },
+  {
+   "id": 15,
+   "name": "STREAMING  Y VIDEO  CAPTURADORA GAMING ",
+   "descripcion": "Elgato Stream Deck Mini 6 Botones Lcd",
+   "brand": "Elgato",
+   "category": "Streaming",
+   "price": 8561,
+   "image": "1 (10).jpg",
+   "especial": "NODESTACADO"
+  },
+  {
+   "id": 16,
+   "name": "Fuente Cooler Master 500w",
+   "descripcion": "Fuente Cooler Master MWE 500w 80 Plus Bronze",
+   "brand": "CoolerMaster",
+   "category": "Fuentes de alimentacion",
+   "price": 7514,
+   "image": "1 (26).jpg",
+   "especial": "DESTACADO"
+  },
+  {
+   "id": 17,
+   "name": "Impresora Multifuncion Hp 315",
+   "descripcion": "Impresora Multifuncion Hp 315 Sistema Continuo Original Escaner Color",
+   "brand": "HP",
+   "category": "Impresoras",
+   "price": 17772,
+   "image": "1 (24).jpg",
+   "especial": "NODESTACADO"
+  },
+  {
+   "id": 18,
+   "name": "Impresora Multifuncion Hp 415 ",
+   "descripcion": "Impresora Multifuncion Hp 415 Sistema Continuo Original Escaner Color Wifi",
+   "brand": "HP",
+   "category": "Impresoras",
+   "price": 23564,
+   "image": "1 (39).jpg",
+   "especial": "NODESTACADO"
+  },
+  {
+   "id": 19,
+   "name": "MEMORIA",
+   "descripcion": "Memoria Corsair Vengeance Lpx 16Gb Ddr4 3000Mhz Negro (2x8GB)",
+   "brand": "Corsair",
+   "category": "Memorias RAM",
+   "price": 11788,
+   "image": "1 (28).jpg",
+   "especial": "DESTACADO"
+  },
+  {
+   "id": 20,
+   "name": "MEMORIA",
+   "descripcion": "Memoria Ddr4 16Gb 2400Mhz CL17 (KVR24N17D8/16) Kingston",
+   "brand": "Kingston",
+   "category": "Memorias RAM",
+   "price": 8274,
+   "image": "1 (12).jpg",
+   "especial": "NODESTACADO"
+  },
+  {
+   "id": 21,
+   "name": "MEMORIA",
+   "descripcion": "Memoria HyperX Fury DDR4 2666 CL 16 16Gb (HX426C16FB3/16) Kingston ",
+   "brand": "Kingston",
+   "category": "Memorias RAM",
+   "price": 9049,
+   "image": "1 (20).jpg",
+   "especial": "NODESTACADO"
+  },
+  {
+   "id": 22,
+   "name": "MEMORIA DE NOTEBOOK",
+   "descripcion": "Memoria Mushkin Essentials SODIMM Ddr4 16Gb 2666mhz",
+   "brand": "Mushkin",
+   "category": "Memorias RAM",
+   "price": 7973,
+   "image": "1 (29).jpg",
+   "especial": "NODESTACADO"
+  },
+  {
+   "id": 23,
+   "name": "MICROPROCESADOR AM4",
+   "descripcion": "Microprocesador AMD A8 9600 2MB 3.40 GHz Socket AM4",
+   "brand": "AMD",
+   "category": "Microprocesadores",
+   "price": 6729,
+   "image": "1 (43).jpg",
+   "especial": "NODESTACADO"
+  },
+  {
+   "id": 24,
+   "name": "MICROPROCESADOR AM4",
+   "descripcion": "Microprocesador AMD Athlon 3000G Vega 3 5MB 3.40GHz Socket AM4",
+   "brand": "AMD",
+   "category": "Microprocesadores",
+   "price": 6818,
+   "image": "1 (43).jpg",
+   "especial": "NODESTACADO"
+  },
+  {
+   "id": 25,
+   "name": "MICROPROCESADOR AM4",
+   "descripcion": "Microprocesador AMD Ryzen 3 3200G 4MB 3.60GHz Socket AM4 - 3° Gen",
+   "brand": "AMD",
+   "category": "Microprocesadores",
+   "price": 12728,
+   "image": "1 (2).png",
+   "especial": "NODESTACADO"
+  },
+  {
+   "id": 26,
+   "name": "MICROPROCESADOR AM4",
+   "descripcion": "Microprocesador AMD Ryzen 5 3600 3MB 3.60 GHz Socket AM4 - 3° Gen ",
+   "brand": "AMD",
+   "category": "Microprocesadores",
+   "price": 28645,
+   "image": "1 (33).jpg",
+   "especial": "NODESTACADO"
+  },
+  {
+   "id": 27,
+   "name": "MICROPROCESADOR AM4",
+   "descripcion": "Microprocesador AMD Ryzen 7 3700X 36MB 4.40GHz Socket AM4 - 3° Gen ",
+   "brand": "AMD",
+   "category": "Microprocesadores",
+   "price": 43188,
+   "image": "1 (34).jpg",
+   "especial": "NODESTACADO"
+  },
+  {
+   "id": 28,
+   "name": "MICROPROCESADOR AM4",
+   "descripcion": "Microprocesador AMD Ryzen 7 3800x 36MB 3.90GHz Socket AM4  - 3° Gen",
+   "brand": "AMD",
+   "category": "Microprocesadores",
+   "price": 46074,
+   "image": "1 (34).jpg",
+   "especial": "NODESTACADO"
+  },
+  {
+   "id": 29,
+   "name": "MICROPROCESADOR I3",
+   "descripcion": "Microprocesador Intel I3-8100 6MB 3.60 GHz Socket 1151 - 8° Gen",
+   "brand": "AMD",
+   "category": "Microprocesadores",
+   "price": 13826,
+   "image": "1 (30).jpg",
+   "especial": "NODESTACADO"
+  },
+  {
+   "id": 30,
+   "name": "MICROPROCESADOR I3",
+   "descripcion": "Microprocesador Intel I3-9100 6MB 4.20 GHz Socket 1151 - 9° Gen",
+   "brand": "Intel",
+   "category": "Microprocesadores",
+   "price": 14280,
+   "image": "1 (30).jpg",
+   "especial": "NODESTACADO"
+  },
+  {
+   "id": 31,
+   "name": "MICROPROCESADOR I5",
+   "descripcion": "Microprocesador Intel I5-9400 9MB 2.90 GHz Socket 1151 - 9° Gen",
+   "brand": "Intel",
+   "category": "Microprocesadores",
+   "price": 21537,
+   "image": "1 (1).jpg",
+   "especial": "NODESTACADO"
+  },
+  {
+   "id": 32,
+   "name": "MICROPROCESADOR i7",
+   "descripcion": "Microprocesador Intel I7-9700F 12MB 3.00 GHz Socket 1151 - 9° Gen",
+   "brand": "Intel",
+   "category": "Microprocesadores",
+   "price": 40686,
+   "image": "1 (27).jpg",
+   "especial": "NODESTACADO"
+  },
+  {
+   "id": 33,
+   "name": "MICROPROCESADOR i7",
+   "descripcion": "Microprocesador Intel I7-9700K 12MB 3.60 GHz Socket 1151 - 9° Gen SIN COOLER",
+   "brand": "Intel",
+   "category": "Microprocesadores",
+   "price": 44898,
+   "image": "1 (27).jpg",
+   "especial": "NODESTACADO"
+  },
+  {
+   "id": 34,
+   "name": "MICROPROCESADOR i7",
+   "descripcion": "Microprocesador Intel I7-9700KF 12MB 3.60 GHz Socket 1151 - 9° Gen SIN COOLER",
+   "brand": "Intel",
+   "category": "Microprocesadores",
+   "price": 40996,
+   "image": "1 (27).jpg",
+   "especial": "NODESTACADO"
+  },
+  {
+   "id": 35,
+   "name": "MICROPROCESADOR I9",
+   "descripcion": "Microprocesador Intel I9-9900K 16MB 5.00 GHz Socket 1151 - 9° Gen SIN COOLER",
+   "brand": "Intel",
+   "category": "Microprocesadores",
+   "price": 56820,
+   "image": "1 (32).jpg",
+   "especial": "DESTACADO"
+  },
+  {
+   "ID": 36,
+   "name": "MICROPROCESADOR PENTIUM",
+   "descripcion": "Microprocesador Intel Pentium G5400 4MB 3.70 GHz Socket 1151 - 8° Gen",
+   "brand": "Intel",
+   "category": "Microprocesadores",
+   "price": 7161,
+   "image": "1 (36).jpg",
+   "especial": "NODESTACADO"
+  },
+  {
+   "id": 37,
+   "name": "Monitor Led AOC 15.6",
+   "descripcion": "Monitor Led AOC 15.6 Wide E1670SWU-E USB (incluye imp interno)",
+   "brand": "AOC",
+   "category": "Monitores",
+   "price": 7504,
+   "image": "1 (37).jpg",
+   "especial": "NODESTACADO"
+  },
+  {
+   "id": 38,
+   "name": "Monitor Samsung 22",
+   "descripcion": "Monitor Samsung 22 Full HD S22F350FH - c/Hdmi",
+   "brand": "Samsung",
+   "category": "Monitores",
+   "price": 15094,
+   "image": "1 (38).jpg",
+   "especial": "NODESTACADO"
+  },
+  {
+   "id": 39,
+   "name": "Notebook Hp I5 ",
+   "descripcion": "Notebook Hp I5 250 G7 8265U 8GB 1TB 15.6",
+   "brand": "HP",
+   "category": "Notebooks",
+   "price": 111096,
+   "image": "1 (23).jpg",
+   "especial": "NODESTACADO"
+  },
+  {
+   "id": 40,
+   "name": "Notebook Hp I7 ",
+   "descripcion": "Notebook Hp I7 10510U 8Gb !tb Windows 10 15,6 + GeForece MX 130",
+   "brand": "HP",
+   "category": "Notebooks",
+   "price": 163224,
+   "image": "1 (40).jpg",
+   "especial": "NODESTACADO"
+  },
+  {
+   "id": 41,
+   "name": "PROYECTORES",
+   "descripcion": "Pantalla Intelaid IT-TPS86 de Proyección con tripode 86\"- Blanco Mate - 4:3 1.72 x 1.3Mts.",
+   "brand": "Intelaid",
+   "category": "Proyectores",
+   "price": 7768,
+   "image": "1 (41).jpg",
+   "especial": "NODESTACADO"
+  },
+  {
+   "id": 42,
+   "name": "PROYECTORES",
+   "descripcion": "Pantalla de Proyección Intelaid 150\" Electrica con Control Remoto visión de 160º",
+   "brand": "Intelaid",
+   "category": "Proyectores",
+   "price": 18938,
+   "image": "1 (41).jpg",
+   "especial": "NODESTACADO"
+  },
+  {
+   "id": 43,
+   "name": "PROYECTORES",
+   "descripcion": "Pantalla de Proyección Intelaid IT-SPS100 SELF-LOCK - Blanco Mate - 4:3 (2.00 x 1.5Mts.)",
+   "brand": "Intelaid",
+   "category": "Proyectores",
+   "price": 7349,
+   "image": "1 (41).jpg",
+   "especial": "NODESTACADO"
+  },
+  {
+   "id": 44,
+   "name": "PROYECTORES",
+   "descripcion": "Pantalla de Proyección Intelaid IT-SPS120 SELF-LOCK - 120\"\" - Blanco Mate - 4:3",
+   "brand": "Intelaid",
+   "category": "Proyectores",
+   "price": 12105,
+   "image": "1 (41).jpg",
+   "especial": "NODESTACADO"
+  },
+  {
+   "id": 45,
+   "name": "ACCESS POINT",
+   "descripcion": "Sistema Wi-Fi Mesh Tenda Nova MW3 2-pack AC1200",
+   "brand": "Tenda",
+   "category": "Conectividad",
+   "price": 6954,
+   "image": "1 (18).jpg",
+   "especial": "NODESTACADO"
+  },
+  {
+   "id": 46,
+   "name": "SOPORTE TV/MONITOR /PROYECTOR",
+   "descripcion": "Soporte Intelaid Triple Monitor 13 a 27 Vesa 100",
+   "brand": "Intelaid",
+   "category": "Soportes",
+   "price": 6390,
+   "image": "1 (16).jpg",
+   "especial": "NODESTACADO"
+  },
+  {
+   "id": 47,
+   "name": "CONECTIVIDAD SWITCHS 16 PUERTOS",
+   "descripcion": "Switch 16-port Tp-Link 10/1000 (TL-SG1016)R19",
+   "brand": "Tp-Link",
+   "category": "Conectividad",
+   "price": 6669,
+   "image": "1 (13).jpg",
+   "especial": "NODESTACADO"
+  },
+  {
+   "id": 48,
+   "name": "CONECTIVIDAD SWITCHS",
+   "descripcion": "Switch 16-port Tp-Link 10/1000 + 2 Slots SFP Combo 10/1000 (TL-SG2216)",
+   "brand": "Tp-Link",
+   "category": "Conectividad",
+   "price": 11092,
+   "image": "1 (44).jpg",
+   "especial": "NODESTACADO"
+  },
+  {
+   "id": 49,
+   "name": "CONECTIVIDAD SWITCHS 24 PUERTOS",
+   "descripcion": "Switch 24 Ports 10/100/1000 TEG1024D Tenda",
+   "brand": "Tenda",
+   "category": "Conectividad",
+   "price": 7394,
+   "image": "conectividad.jpg",
+   "especial": "NODESTACADO"
+  },
+  {
+   "id": 50,
+   "name": "TABLETAS DIGITALIZADORAS",
+   "descripcion": "Tableta Digitalizadora Wacom Intuos Small Negra + 3 Soft Gratis",
+   "brand": "Wacom",
+   "category": "Tabletas",
+   "price": 7147,
+   "image": "1 (11).jpg",
+   "especial": "NODESTACADO"
+  },
+  {
+   "id": 51,
+   "name": "TECLADO GAMER",
+   "descripcion": "Teclado Gamer Corsair K70 RGB MK.2 Mechanical Gaming CHERRY® MX Blue",
+   "brand": "Corsair",
+   "category": "Teclados",
+   "price": 15357,
+   "image": "1 (45).jpg",
+   "especial": "DESTACADO"
+  },
+  {
+   "id": 52,
+   "name": "Pc Armada Gamer ",
+   "descripcion": "ESPECIFICACIONES TÉCNICAS - Amd Ryzen 5 3400g 1tb 8g Ddr4 Radeon Rx Vega",
+   "brand": "AMD",
+   "category": "Pc",
+   "price": 52499,
+   "image": "1 (42).jpg",
+   "especial": "NODESTACADO"
+  },
+  {
+   "id": 53,
+   "name": "Notebook Alienware I7 ",
+   "descripcion": "17r5 Intel Core I7-8750h X6 2.2ghz 16gb 1.1tb 17 ",
+   "brand": "Alienware",
+   "category": "Notebooks",
+   "price": 240000,
+   "image": "alien.jpg",
+   "especial": "NODESTACADO"
+  },
+  {
+   "id": 54,
+   "name": "Monitor Gamer Curvo 34'",
+   "descripcion": "Monitor Ultrawide Ips Gsync Wfhd 144hz 1ms H",
+   "brand": "Samsung",
+   "category": "Monitores",
+   "price": 15094,
+   "image": "monitorcurvo.jpg",
+   "especial": "DESTACADO"
+  },
+  {
+   "id": "55",
+   "name": "PC Home Office",
+   "descripcion": "Intel Core I3 8100 - H310 - 8GB - 240GB SSD",
+   "brand": "PC Home Office",
+   "category": "pc office",
+   "price": "40261",
+   "image": "PC-Oficina-2_800.jpg",
+   "especial": "NODESTACADO"
+  },
+  {
+   "id": "56",
+   "name": "PC Home Office",
+   "descripcion": " Intel Core I3 9100F - H310 - 8GB - GT 210 - 240GB SSD",
+   "brand": "PC Home Office",
+   "category": "pc office",
+   "price": "39660",
+   "image": "PC-Oficina-2_800.jpg",
+   "especial": "NODESTACADO"
+  },
+  {
+   "id": "57",
+   "name": "PC Home Office",
+   "descripcion": "Intel Pentium G5400 - H310 - 8GB - 240GB SSD",
+   "brand": "PC Home Office",
+   "category": "pc office",
+   "price": "32343",
+   "image": "PC-Oficina-2_800.jpg",
+   "especial": "NODESTACADO"
+  },
+  {
+   "id": "58",
+   "name": "PC Streaming",
+   "descripcion": "Intel I5 9400 - B365 - 8GB - GTX 1650 S - 1TB",
+   "category": "pc streming",
+   "price": "82768",
+   "image": "PC-Streaming-5_800.jpg",
+   "especial": "NODESTACADO"
+  },
+  {
+   "id": "59",
+   "name": "PC Streaming",
+   "descripcion": "Intel I5 9400 - B365 - 16GB - GTX 1660 Ti - 240GB SSD - 1TB",
+   "category": "pc streming",
+   "price": "108012",
+   "image": "PC-Streaming-5_800.jpg",
+   "especial": "NODESTACADO"
+  },
+  {
+   "id": "60",
+   "name": "PC Streaming",
+   "descripcion": "AMD Ryzen 5 3600 - B450 - 16GB - RX 5600 XT - 240GB SSD - 1T",
+   "category": "pc streming",
+   "price": "110554",
+   "image": "PC-Streaming-5_800.jpg",
+   "especial": "NODESTACADO"
+  },
+  {
+   "id": "61",
+   "name": "PC Diseño",
+   "descripcion": "INTEL I7 9700F - B365 - 16GB - RTX 2060 S - 240GB SSD - 1TB",
+   "category": "pcdiseno",
+   "price": "144338",
+   "image": "PC-Diseño-6_800.jpg",
+   "especial": "NODESTACADO"
+  },
+  {
+   "id": "62",
+   "name": "PC Diseño",
+   "descripcion": "AMD R5 3600 - B450 - 16GB - RX 5600 XT - 240GB SSD - 1TB",
+   "category": "pcdiseno",
+   "price": "110554",
+   "image": "PC-Diseño-6_800.jpg",
+   "especial": "NODESTACADO"
+  },
+  {
+   "id": "63",
+   "name": "PC Diseño",
+   "descripcion": " AMD R5 3600 - B450 - 8GB - GTX 1660 Ti - 240GB SSD - 1TB",
+   "category": "pcdiseno",
+   "price": "107693",
+   "image": "PC-Diseño-6_800.jpg",
+   "especial": "NODESTACADO"
+  },
+  [
+   {
+    "id": 1,
+    "name": "Disco Solido Ssd 2 TB",
+    "descripcion": "Disco Solido Ssd 2 Tb Western Digital Blue",
+    "brand": "Western Digital",
+    "category": "Discos y SSDs",
+    "price": 26729,
+    "image": "1 (14).jpg",
+    "especial": "NODESTACADO"
+   },
+   {
+    "id": 2,
+    "name": "Disco Solido Ssd 480 GB",
+    "descripcion": "Disco Solido Ssd 480 Gb Kingston A400",
+    "brand": "Kingston",
+    "category": "Discos y SSDs",
+    "price": 7471,
+    "image": "1 (5).jpg",
+    "especial": "NODESTACADO"
+   },
+   {
+    "id": 3,
+    "name": "Disco Solido Ssd 480 Gb ",
+    "descripcion": "Disco Solido Ssd 480 Gb Patriot Burst PBU480GS25SSDR",
+    "brand": "Patriot",
+    "category": "Discos y SSDs",
+    "price": 7261,
+    "image": "1 (21).jpg",
+    "especial": "NODESTACADO"
+   },
+   {
+    "id": 4,
+    "name": "Disco Solido Ssd 480 Gb ",
+    "descripcion": "Disco Solido Ssd 480 Gb Western Digital Green",
+    "brand": "Western Digital",
+    "category": "Discos y SSDs",
+    "price": 7027,
+    "image": "1 (14).jpg",
+    "especial": "NODESTACADO"
+   },
+   {
+    "id": 5,
+    "name": "Disco Solido Ssd 500 Gb ",
+    "descripcion": "Disco Solido Ssd 500 Gb Western Digital Blue",
+    "brand": "Western Digital",
+    "category": "Discos y SSDs",
+    "price": 7769,
+    "image": "1 (5).jpg",
+    "especial": "NODESTACADO"
+   },
+   {
+    "id": 6,
+    "name": "Disco Solido Ssd 960 Gb ",
+    "descripcion": "Disco Solido Ssd 960 Gb Kingston A400",
+    "brand": "Kingston",
+    "category": "Discos y SSDs",
+    "price": 13367,
+    "image": "1 (7).jpg",
+    "especial": "NODESTACADO"
+   },
+   {
+    "id": 7,
+    "name": "Disco Solido Ssd 960 Gb ",
+    "descripcion": "Disco Solido Ssd 960 Gb Patriot Burst PBU960GS25SSDR",
+    "brand": "Patriot",
+    "category": "Discos y SSDs",
+    "price": 12789,
+    "image": "1 (21).jpg",
+    "especial": "NODESTACADO"
+   },
+   {
+    "id": 8,
+    "name": "Disco Solido Ssd M2 2 Tb",
+    "descripcion": "Disco Solido Ssd M2 2 Tb Western Digital Blue",
+    "brand": "Western Digital",
+    "category": "Discos y SSDs",
+    "price": 26393,
+    "image": "1 (15).jpg",
+    "especial": "NODESTACADO"
+   },
+   {
+    "id": 9,
+    "name": "Disco Solido Ssd M2 480 GB",
+    "descripcion": "Disco Solido Ssd M2 480 Gb Adata ASU650NS38-480GT-C",
+    "brand": "Adata",
+    "category": "Discos y SSDs",
+    "price": 6664,
+    "image": "1 (17).jpg",
+    "especial": "NODESTACADO"
+   },
+   {
+    "id": 10,
+    "name": "Disco Solido Ssd M2 500 Gb ",
+    "descripcion": "Disco Solido Ssd M2 500 Gb Western Digital Blue",
+    "brand": "Western Digital",
+    "category": "Discos y SSDs",
+    "price": 8037,
+    "image": "1 (9).jpg",
+    "especial": "DESTACADO"
+   },
+   {
+    "id": 11,
+    "name": "Disco Solido Ssd M2 240 Gb ",
+    "descripcion": "Disco Solido Ssd M2 Nvme 240 Gb Corsair MP510",
+    "brand": "Corsair",
+    "category": "Discos y SSDs",
+    "price": 6793,
+    "image": "1 (8).jpg",
+    "especial": "NODESTACADO"
+   },
+   {
+    "id": 12,
+    "name": "Disco Solido Ssd M2 250 Gb ",
+    "descripcion": "Disco Solido Ssd M2 Nvme 250 Gb Western Digital Black",
+    "brand": "Western Digital",
+    "category": "Discos y SSDs",
+    "price": 7486,
+    "image": "1 (4).jpg",
+    "especial": "NODESTACADO"
+   },
+   {
+    "id": 13,
+    "name": "Disco Solido Ssd M2 256Gb ",
+    "descripcion": "Disco Solido Ssd M2 Nvme 256Gb Patriot VPR100 RGB",
+    "brand": "Patriot",
+    "category": "Discos y SSDs",
+    "price": 8764,
+    "image": "1 (22).jpg",
+    "especial": "NODESTACADO"
+   },
+   {
+    "id": 14,
+    "name": "STREAMING  Y VIDEO  CAPTURADORA GAMING ",
+    "descripcion": "Elgato Capturadora Game Streaming HD 60",
+    "brand": "Elgato",
+    "category": "Streaming",
+    "price": 16619,
+    "image": "1 (1).png",
+    "especial": "NODESTACADO"
+   },
+   {
+    "id": 15,
+    "name": "STREAMING  Y VIDEO  CAPTURADORA GAMING ",
+    "descripcion": "Elgato Stream Deck Mini 6 Botones Lcd",
+    "brand": "Elgato",
+    "category": "Streaming",
+    "price": 8561,
+    "image": "1 (10).jpg",
+    "especial": "NODESTACADO"
+   },
+   {
+    "id": 16,
+    "name": "Fuente Cooler Master 500w",
+    "descripcion": "Fuente Cooler Master MWE 500w 80 Plus Bronze",
+    "brand": "CoolerMaster",
+    "category": "Fuentes de alimentacion",
+    "price": 7514,
+    "image": "1 (26).jpg",
+    "especial": "DESTACADO"
+   },
+   {
+    "id": 17,
+    "name": "Impresora Multifuncion Hp 315",
+    "descripcion": "Impresora Multifuncion Hp 315 Sistema Continuo Original Escaner Color",
+    "brand": "HP",
+    "category": "Impresoras",
+    "price": 17772,
+    "image": "1 (24).jpg",
+    "especial": "NODESTACADO"
+   },
+   {
+    "id": 18,
+    "name": "Impresora Multifuncion Hp 415 ",
+    "descripcion": "Impresora Multifuncion Hp 415 Sistema Continuo Original Escaner Color Wifi",
+    "brand": "HP",
+    "category": "Impresoras",
+    "price": 23564,
+    "image": "1 (39).jpg",
+    "especial": "NODESTACADO"
+   },
+   {
+    "id": 19,
+    "name": "MEMORIA",
+    "descripcion": "Memoria Corsair Vengeance Lpx 16Gb Ddr4 3000Mhz Negro (2x8GB)",
+    "brand": "Corsair",
+    "category": "Memorias RAM",
+    "price": 11788,
+    "image": "1 (28).jpg",
+    "especial": "DESTACADO"
+   },
+   {
+    "id": 20,
+    "name": "MEMORIA",
+    "descripcion": "Memoria Ddr4 16Gb 2400Mhz CL17 (KVR24N17D8/16) Kingston",
+    "brand": "Kingston",
+    "category": "Memorias RAM",
+    "price": 8274,
+    "image": "1 (12).jpg",
+    "especial": "NODESTACADO"
+   },
+   {
+    "id": 21,
+    "name": "MEMORIA",
+    "descripcion": "Memoria HyperX Fury DDR4 2666 CL 16 16Gb (HX426C16FB3/16) Kingston ",
+    "brand": "Kingston",
+    "category": "Memorias RAM",
+    "price": 9049,
+    "image": "1 (20).jpg",
+    "especial": "NODESTACADO"
+   },
+   {
+    "id": 22,
+    "name": "MEMORIA DE NOTEBOOK",
+    "descripcion": "Memoria Mushkin Essentials SODIMM Ddr4 16Gb 2666mhz",
+    "brand": "Mushkin",
+    "category": "Memorias RAM",
+    "price": 7973,
+    "image": "1 (29).jpg",
+    "especial": "NODESTACADO"
+   },
+   {
+    "id": 23,
+    "name": "MICROPROCESADOR AM4",
+    "descripcion": "Microprocesador AMD A8 9600 2MB 3.40 GHz Socket AM4",
+    "brand": "AMD",
+    "category": "Microprocesadores",
+    "price": 6729,
+    "image": "1 (43).jpg",
+    "especial": "NODESTACADO"
+   },
+   {
+    "id": 24,
+    "name": "MICROPROCESADOR AM4",
+    "descripcion": "Microprocesador AMD Athlon 3000G Vega 3 5MB 3.40GHz Socket AM4",
+    "brand": "AMD",
+    "category": "Microprocesadores",
+    "price": 6818,
+    "image": "1 (43).jpg",
+    "especial": "NODESTACADO"
+   },
+   {
+    "id": 25,
+    "name": "MICROPROCESADOR AM4",
+    "descripcion": "Microprocesador AMD Ryzen 3 3200G 4MB 3.60GHz Socket AM4 - 3° Gen",
+    "brand": "AMD",
+    "category": "Microprocesadores",
+    "price": 12728,
+    "image": "1 (2).png",
+    "especial": "NODESTACADO"
+   },
+   {
+    "id": 26,
+    "name": "MICROPROCESADOR AM4",
+    "descripcion": "Microprocesador AMD Ryzen 5 3600 3MB 3.60 GHz Socket AM4 - 3° Gen ",
+    "brand": "AMD",
+    "category": "Microprocesadores",
+    "price": 28645,
+    "image": "1 (33).jpg",
+    "especial": "NODESTACADO"
+   },
+   {
+    "id": 27,
+    "name": "MICROPROCESADOR AM4",
+    "descripcion": "Microprocesador AMD Ryzen 7 3700X 36MB 4.40GHz Socket AM4 - 3° Gen ",
+    "brand": "AMD",
+    "category": "Microprocesadores",
+    "price": 43188,
+    "image": "1 (34).jpg",
+    "especial": "NODESTACADO"
+   },
+   {
+    "id": 28,
+    "name": "MICROPROCESADOR AM4",
+    "descripcion": "Microprocesador AMD Ryzen 7 3800x 36MB 3.90GHz Socket AM4  - 3° Gen",
+    "brand": "AMD",
+    "category": "Microprocesadores",
+    "price": 46074,
+    "image": "1 (34).jpg",
+    "especial": "NODESTACADO"
+   },
+   {
+    "id": 29,
+    "name": "MICROPROCESADOR I3",
+    "descripcion": "Microprocesador Intel I3-8100 6MB 3.60 GHz Socket 1151 - 8° Gen",
+    "brand": "AMD",
+    "category": "Microprocesadores",
+    "price": 13826,
+    "image": "1 (30).jpg",
+    "especial": "NODESTACADO"
+   },
+   {
+    "id": 30,
+    "name": "MICROPROCESADOR I3",
+    "descripcion": "Microprocesador Intel I3-9100 6MB 4.20 GHz Socket 1151 - 9° Gen",
+    "brand": "Intel",
+    "category": "Microprocesadores",
+    "price": 14280,
+    "image": "1 (30).jpg",
+    "especial": "NODESTACADO"
+   },
+   {
+    "id": 31,
+    "name": "MICROPROCESADOR I5",
+    "descripcion": "Microprocesador Intel I5-9400 9MB 2.90 GHz Socket 1151 - 9° Gen",
+    "brand": "Intel",
+    "category": "Microprocesadores",
+    "price": 21537,
+    "image": "1 (1).jpg",
+    "especial": "NODESTACADO"
+   },
+   {
+    "id": 32,
+    "name": "MICROPROCESADOR i7",
+    "descripcion": "Microprocesador Intel I7-9700F 12MB 3.00 GHz Socket 1151 - 9° Gen",
+    "brand": "Intel",
+    "category": "Microprocesadores",
+    "price": 40686,
+    "image": "1 (27).jpg",
+    "especial": "NODESTACADO"
+   },
+   {
+    "id": 33,
+    "name": "MICROPROCESADOR i7",
+    "descripcion": "Microprocesador Intel I7-9700K 12MB 3.60 GHz Socket 1151 - 9° Gen SIN COOLER",
+    "brand": "Intel",
+    "category": "Microprocesadores",
+    "price": 44898,
+    "image": "1 (27).jpg",
+    "especial": "NODESTACADO"
+   },
+   {
+    "id": 34,
+    "name": "MICROPROCESADOR i7",
+    "descripcion": "Microprocesador Intel I7-9700KF 12MB 3.60 GHz Socket 1151 - 9° Gen SIN COOLER",
+    "brand": "Intel",
+    "category": "Microprocesadores",
+    "price": 40996,
+    "image": "1 (27).jpg",
+    "especial": "NODESTACADO"
+   },
+   {
+    "id": 35,
+    "name": "MICROPROCESADOR I9",
+    "descripcion": "Microprocesador Intel I9-9900K 16MB 5.00 GHz Socket 1151 - 9° Gen SIN COOLER",
+    "brand": "Intel",
+    "category": "Microprocesadores",
+    "price": 56820,
+    "image": "1 (32).jpg",
+    "especial": "DESTACADO"
+   },
+   {
+    "ID": 36,
+    "name": "MICROPROCESADOR PENTIUM",
+    "descripcion": "Microprocesador Intel Pentium G5400 4MB 3.70 GHz Socket 1151 - 8° Gen",
+    "brand": "Intel",
+    "category": "Microprocesadores",
+    "price": 7161,
+    "image": "1 (36).jpg",
+    "especial": "NODESTACADO"
+   },
+   {
+    "id": 37,
+    "name": "Monitor Led AOC 15.6",
+    "descripcion": "Monitor Led AOC 15.6 Wide E1670SWU-E USB (incluye imp interno)",
+    "brand": "AOC",
+    "category": "Monitores",
+    "price": 7504,
+    "image": "1 (37).jpg",
+    "especial": "NODESTACADO"
+   },
+   {
+    "id": 38,
+    "name": "Monitor Samsung 22",
+    "descripcion": "Monitor Samsung 22 Full HD S22F350FH - c/Hdmi",
+    "brand": "Samsung",
+    "category": "Monitores",
+    "price": 15094,
+    "image": "1 (38).jpg",
+    "especial": "NODESTACADO"
+   },
+   {
+    "id": 39,
+    "name": "Notebook Hp I5 ",
+    "descripcion": "Notebook Hp I5 250 G7 8265U 8GB 1TB 15.6",
+    "brand": "HP",
+    "category": "Notebooks",
+    "price": 111096,
+    "image": "1 (23).jpg",
+    "especial": "NODESTACADO"
+   },
+   {
+    "id": 40,
+    "name": "Notebook Hp I7 ",
+    "descripcion": "Notebook Hp I7 10510U 8Gb !tb Windows 10 15,6 + GeForece MX 130",
+    "brand": "HP",
+    "category": "Notebooks",
+    "price": 163224,
+    "image": "1 (40).jpg",
+    "especial": "NODESTACADO"
+   },
+   {
+    "id": 41,
+    "name": "PROYECTORES",
+    "descripcion": "Pantalla Intelaid IT-TPS86 de Proyección con tripode 86\"- Blanco Mate - 4:3 1.72 x 1.3Mts.",
+    "brand": "Intelaid",
+    "category": "Proyectores",
+    "price": 7768,
+    "image": "1 (41).jpg",
+    "especial": "NODESTACADO"
+   },
+   {
+    "id": 42,
+    "name": "PROYECTORES",
+    "descripcion": "Pantalla de Proyección Intelaid 150\" Electrica con Control Remoto visión de 160º",
+    "brand": "Intelaid",
+    "category": "Proyectores",
+    "price": 18938,
+    "image": "1 (41).jpg",
+    "especial": "NODESTACADO"
+   },
+   {
+    "id": 43,
+    "name": "PROYECTORES",
+    "descripcion": "Pantalla de Proyección Intelaid IT-SPS100 SELF-LOCK - Blanco Mate - 4:3 (2.00 x 1.5Mts.)",
+    "brand": "Intelaid",
+    "category": "Proyectores",
+    "price": 7349,
+    "image": "1 (41).jpg",
+    "especial": "NODESTACADO"
+   },
+   {
+    "id": 44,
+    "name": "PROYECTORES",
+    "descripcion": "Pantalla de Proyección Intelaid IT-SPS120 SELF-LOCK - 120\"\" - Blanco Mate - 4:3",
+    "brand": "Intelaid",
+    "category": "Proyectores",
+    "price": 12105,
+    "image": "1 (41).jpg",
+    "especial": "NODESTACADO"
+   },
+   {
+    "id": 45,
+    "name": "ACCESS POINT",
+    "descripcion": "Sistema Wi-Fi Mesh Tenda Nova MW3 2-pack AC1200",
+    "brand": "Tenda",
+    "category": "Conectividad",
+    "price": 6954,
+    "image": "1 (18).jpg",
+    "especial": "NODESTACADO"
+   },
+   {
+    "id": 46,
+    "name": "SOPORTE TV/MONITOR /PROYECTOR",
+    "descripcion": "Soporte Intelaid Triple Monitor 13 a 27 Vesa 100",
+    "brand": "Intelaid",
+    "category": "Soportes",
+    "price": 6390,
+    "image": "1 (16).jpg",
+    "especial": "NODESTACADO"
+   },
+   {
+    "id": 47,
+    "name": "CONECTIVIDAD SWITCHS 16 PUERTOS",
+    "descripcion": "Switch 16-port Tp-Link 10/1000 (TL-SG1016)R19",
+    "brand": "Tp-Link",
+    "category": "Conectividad",
+    "price": 6669,
+    "image": "1 (13).jpg",
+    "especial": "NODESTACADO"
+   },
+   {
+    "id": 48,
+    "name": "CONECTIVIDAD SWITCHS",
+    "descripcion": "Switch 16-port Tp-Link 10/1000 + 2 Slots SFP Combo 10/1000 (TL-SG2216)",
+    "brand": "Tp-Link",
+    "category": "Conectividad",
+    "price": 11092,
+    "image": "1 (44).jpg",
+    "especial": "NODESTACADO"
+   },
+   {
+    "id": 49,
+    "name": "CONECTIVIDAD SWITCHS 24 PUERTOS",
+    "descripcion": "Switch 24 Ports 10/100/1000 TEG1024D Tenda",
+    "brand": "Tenda",
+    "category": "Conectividad",
+    "price": 7394,
+    "image": "conectividad.jpg",
+    "especial": "NODESTACADO"
+   },
+   {
+    "id": 50,
+    "name": "TABLETAS DIGITALIZADORAS",
+    "descripcion": "Tableta Digitalizadora Wacom Intuos Small Negra + 3 Soft Gratis",
+    "brand": "Wacom",
+    "category": "Tabletas",
+    "price": 7147,
+    "image": "1 (11).jpg",
+    "especial": "NODESTACADO"
+   },
+   {
+    "id": 51,
+    "name": "TECLADO GAMER",
+    "descripcion": "Teclado Gamer Corsair K70 RGB MK.2 Mechanical Gaming CHERRY® MX Blue",
+    "brand": "Corsair",
+    "category": "Teclados",
+    "price": 15357,
+    "image": "1 (45).jpg",
+    "especial": "DESTACADO"
+   },
+   {
+    "id": 52,
+    "name": "Pc Armada Gamer ",
+    "descripcion": "ESPECIFICACIONES TÉCNICAS - Amd Ryzen 5 3400g 1tb 8g Ddr4 Radeon Rx Vega",
+    "brand": "AMD",
+    "category": "Pc",
+    "price": 52499,
+    "image": "1 (42).jpg",
+    "especial": "NODESTACADO"
+   },
+   {
+    "id": 53,
+    "name": "Notebook Alienware I7 ",
+    "descripcion": "17r5 Intel Core I7-8750h X6 2.2ghz 16gb 1.1tb 17 ",
+    "brand": "Alienware",
+    "category": "Notebooks",
+    "price": 240000,
+    "image": "alien.jpg",
+    "especial": "NODESTACADO"
+   },
+   {
+    "id": 54,
+    "name": "Monitor Gamer Curvo 34'",
+    "descripcion": "Monitor Ultrawide Ips Gsync Wfhd 144hz 1ms H",
+    "brand": "Samsung",
+    "category": "Monitores",
+    "price": 15094,
+    "image": "monitorcurvo.jpg",
+    "especial": "DESTACADO"
+   },
+   {
+    "id": "55",
+    "name": "PC Home Office",
+    "descripcion": "Intel Core I3 8100 - H310 - 8GB - 240GB SSD",
+    "brand": "PC Home Office",
+    "category": "pc office",
+    "price": "40261",
+    "image": "PC-Oficina-2_800.jpg",
+    "especial": "NODESTACADO"
+   },
+   {
+    "id": "56",
+    "name": "PC Home Office",
+    "descripcion": " Intel Core I3 9100F - H310 - 8GB - GT 210 - 240GB SSD",
+    "brand": "PC Home Office",
+    "category": "pc office",
+    "price": "39660",
+    "image": "PC-Oficina-2_800.jpg",
+    "especial": "NODESTACADO"
+   },
+   {
+    "id": "57",
+    "name": "PC Home Office",
+    "descripcion": "Intel Pentium G5400 - H310 - 8GB - 240GB SSD",
+    "brand": "PC Home Office",
+    "category": "pc office",
+    "price": "32343",
+    "image": "PC-Oficina-2_800.jpg",
+    "especial": "NODESTACADO"
+   },
+   {
+    "id": "58",
+    "name": "PC Streaming",
+    "descripcion": "Intel I5 9400 - B365 - 8GB - GTX 1650 S - 1TB",
+    "category": "pc streming",
+    "price": "82768",
+    "image": "PC-Streaming-5_800.jpg",
+    "especial": "NODESTACADO"
+   },
+   {
+    "id": "59",
+    "name": "PC Streaming",
+    "descripcion": "Intel I5 9400 - B365 - 16GB - GTX 1660 Ti - 240GB SSD - 1TB",
+    "category": "pc streming",
+    "price": "108012",
+    "image": "PC-Streaming-5_800.jpg",
+    "especial": "NODESTACADO"
+   },
+   {
+    "id": "60",
+    "name": "PC Streaming",
+    "descripcion": "AMD Ryzen 5 3600 - B450 - 16GB - RX 5600 XT - 240GB SSD - 1T",
+    "category": "pc streming",
+    "price": "110554",
+    "image": "PC-Streaming-5_800.jpg",
+    "especial": "NODESTACADO"
+   },
+   {
+    "id": "61",
+    "name": "PC Diseño",
+    "descripcion": "INTEL I7 9700F - B365 - 16GB - RTX 2060 S - 240GB SSD - 1TB",
+    "category": "pcdiseno",
+    "price": "144338",
+    "image": "PC-Diseño-6_800.jpg",
+    "especial": "NODESTACADO"
+   },
+   {
+    "id": "62",
+    "name": "PC Diseño",
+    "descripcion": "AMD R5 3600 - B450 - 16GB - RX 5600 XT - 240GB SSD - 1TB",
+    "category": "pcdiseno",
+    "price": "110554",
+    "image": "PC-Diseño-6_800.jpg",
+    "especial": "NODESTACADO"
+   },
+   {
+    "id": "63",
+    "name": "PC Diseño",
+    "descripcion": " AMD R5 3600 - B450 - 8GB - GTX 1660 Ti - 240GB SSD - 1TB",
+    "category": "pcdiseno",
+    "price": "107693",
+    "image": "PC-Diseño-6_800.jpg",
+    "especial": "NODESTACADO"
+   }
+  ],
+  {
+   "name": "nuevo",
+   "price": "2020",
+   "category": "Notebooks",
+   "especial": "NODESTACADO",
+   "description": "sdf",
+   "image": "1014033.jpg"
+  }
+ ]
+]

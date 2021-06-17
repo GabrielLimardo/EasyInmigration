@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<%- include('./partials/head', {title: 'Perfil'}) %>
+<link rel="stylesheet" href="/css/perfile.css">
+
+<body>
+
+    <%- include('./partials/header', {user})%>
+
+    <section class="slicebg-3">
+        <div class="w-section inverse shop">
+            <div class="containerperfil">
+                <div class="misdatos">
+                    <div class="rowperfil">
+
+                        <div class="col-md-3 mt-20">
+
+                            <h1 class="section-title mi_cuenta"><i class="fa fa-users-cog"></i>&nbsp;Mi Cuenta</h1>
+                            <img src="/img/<%= user.image %>" alt="FotoPerfil" class="profilePic">
+                            <div class="widget oculto-movil-">
+                                <ul class="categories">
+                                    <% if (user.rol === 1) {%>
+                                    <li><a href="/perfil/controlarea" class="continuar"><i
+                                                class="fas fa-user-tag"></i>&nbsp;Panel de Control</a></li>
+                                    <li><a href="/carrito" class="continuar"><i
+                                                class="fa fa-shopping-cart "></i>&nbsp;Mis Guardados</a></li>
+                                    <li><a href="/perfil/editpas/<%= user.id %>" class="continuar"><i
+                                                class="fa fa-key"></i>&nbsp;Cambiar mi contraseña</a></li>
+                                    <% } else { %>
+                                    <li><a href="/carrito" class="continuar"><i
+                                                class="fa fa-shopping-cart "></i>&nbsp;Mis Guardados</a></li>
+                                    <li><a href="/perfil/editpas/<%= user.id %>" class="continuar"><i
+                                                class="fa fa-key"></i>&nbsp;Cambiar mi contraseña</a></li>
+                                    
+                                    <% } %>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="col-md-8 ml-4 mt-20">
+                            <div class="w-sectioninverse">
+
+                                <h3><i class="fa fa-list-alt"></i>&nbsp; Mis datos</h3>
+                                <table class="table table-cart table-responsive">
+                                    <tbody id="contentPedido">
+                                        <form id= "trash"  id="actualizarCuenta" action="/perfil/<%= user.id %>" method="POST"
+                                            name="actualizarCuenta" class="col-lg-12">
+
+                                            <div class="col-lg-6 col-xs-12 pull-left mt-0 mb-4">
+                                                <div class="col-lg-12 pl-0">
+                                                    <h5>Datos personales</h5>
+                                                </div>
+                                                <div class="col-lg-3 col-xs-12 pull-left mt-0 pl-0">
+                                                    <label class="control-label w-100 mt-0">ID cliente:</label>
+                                                    <input class="form-control pl-2" value="<%= user.id %> "
+                                                        disabled="disabled" />
+                                                </div>
+                                                <div class="col-lg-9 col-xs-12 pull-left mt-0 pl-0">
+                                                    <label class="control-label w-100 mt-0">Email:</label>
+                                                    <input class="form-control pl-2" name="email"
+                                                        value="<%= user.email %>" />
+                                                </div>
+
+                                                <div class="col-lg-6 col-xs-12 pull-left mt-4 pl-0">
+                                                    <label class="control-label w-100 mt-0">Nombre de usuario:</label>
+                                                    <input class="form-control pl-2" id="campo_cliNombre"
+                                                        name="username" value="<%= user.username %>" />
+                                                </div>
+                                                <div class="password">
+                                                    <label class="control-label w-100 mt-0">Contraseña:</label>
+                                                    <input class="passwordInput" type="password" id="passsword"
+                                                        name="password" autocomplete="off" placeholder="Contraseña"
+                                                        value="" required>
+                                                    <p class="error">
+                                                        <%= typeof errors == 'undefined' ? null : (errors.password ? errors.password.msg : null) %>
+                                                    </p>
+                                                </div>
+                                                <div class="col-lg-12 col-xs-12 mt-3 pl-0">
+                                                    <button type="submit" class="btn btn-blue"><i class="fa fa-check"
+                                                            aria-hidden="true"></i> Actualizar mis datos</button>
+                                                </div>
+                                            </div>
+                                        </form>
+                                        
+                                            </div>
+                                        </form>
+
+                                    </tbody>
+                                </table>
+
+
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+
+
+
+
+            </div>
+        </div>
+    </section>
+
+
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@9"></script>		
+	<script src= "/js/sweetAlerts.js"></script>
+</body>

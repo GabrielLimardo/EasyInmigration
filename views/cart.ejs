@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<%- include('./partials/head', {title: 'Panel de control'}) %>
+<link rel="stylesheet" href="/css/perfile.css">
+
+<body>
+
+    <%- include('./partials/header', {user})%> 
+
+<section class="slicebg-3">
+    <div class="w-section inverse shop">
+        <div class="containerperfil">
+            <div class="MISLIKES">
+                        <div class="rowperfil1">
+                           <div id="main-container">
+                              
+                              <table class="tablacarrito">
+                                 <thead>
+                                    
+                                    <tr>
+                                       <td>PAIS</td>
+                                       <%  items.forEach(item => { %>
+                                       <td><a href="/lista/detail/<%=item.Countries.id%>"><%= item.Countries.name %></a> <form action="/carrito/deleteFromCart" method="POST" class="delete-cart-button"> <input type="hidden" name="itemId" value="<%= item.id %>"><button type="submit" class="action-button delete">x</button></form></td>
+                                       <% }) %>
+                                       
+                                    </tr>
+                                    
+                                 </thead>
+                                   
+                                    <tr>
+                                       <td>IDIOMA</td>
+                                       <%  items.forEach(item => { %>
+                                       <td><a href="/lista/detail/<%=item.Countries.id%>"><%= item.Countries.Idioma %></a></td>
+                                       <% }) %>
+                                    </tr>
+                                    <tr>
+                                       <td>Gasto de Alimento</td>
+                                       <%  items.forEach(item => { %>
+                                       <td><a href="/lista/detail/<%=item.Countries.id%>"><%= item.Countries.GastoAlimento %></a></td>
+                                       <% }) %>
+                                    </tr>
+                                    <tr>
+                                       <td>Gasto de Trasporte</td>
+                                       <%  items.forEach(item => { %>
+                                       <td><a href="/lista/detail/<%=item.Countries.id%>"><%= item.Countries.GastoTrasporte %></a></td>
+                                       <% }) %>
+                                    </tr>
+                                    <tr>
+                                       <td>Gasto de Vivienda</td>
+                                       <%  items.forEach(item => { %>
+                                       <td><a href="/lista/detail/<%=item.Countries.id%>"><%= item.Countries.GastoVivienda %></a></td>
+                                       <% }) %>
+                                    </tr>
+                                    <tr>
+                                       <td>Industrias</td>
+                                       <%  items.forEach(item => { %>
+                                       <td><a href="/lista/detail/<%=item.Countries.id%>"><%= item.Countries.Industrias %></a></td>
+                                       <% }) %>
+                                    </tr>
+                                    <tr>
+                                       <td>Desempleo</td>
+                                       <%  items.forEach(item => { %>
+                                       <td><a href="/lista/detail/<%=item.Countries.id%>"><%= item.Countries.Desempleo %></a></td>
+                                       <% }) %>
+                                    </tr>
+                                    <tr>
+                                       <td>Salario Minimo</td>
+                                       <%  items.forEach(item => { %>
+                                       <td><a href="/lista/detail/<%=item.Countries.id%>"><%= item.Countries.SalarioMinimo %></a></td>
+                                       <% }) %>
+                                    </tr>
+                                    <tr>
+                                       <td>Salario Medio</td>
+                                       <%  items.forEach(item => { %>
+                                       <td><a href="/lista/detail/<%=item.Countries.id%>"><%= item.Countries.SalarioMedio %></a></td>
+                                       <% }) %>
+                                    </tr>
+                                    <tr>
+                                       <td>Tipo de visado</td>
+                                       <%  items.forEach(item => { %>
+                                       <td><a href="/lista/detail/<%=item.Countries.id%>"><%= item.Countries.TipoDeVisado %></a></td>
+                                       <% }) %>
+                                    </tr>
+                                    <tr>
+                                       <td>Servicios Publicos</td>
+                                       <%  items.forEach(item => { %>
+                                       <td><a href="/lista/detail/<%=item.Countries.id%>"><%= item.Countries.ServiciosPublicos %></a></td>
+                                       <% }) %>
+                                    </tr>
+                                    <tr>
+                                       <td>Clima promedio</td>
+                                       <%  items.forEach(item => { %>
+                                       <td><a href="/lista/detail/<%=item.Countries.id%>"><%= item.Countries.PromClima %></a></td>
+                                       <% }) %>
+                                    </tr>
+                                    <tr>
+                                       <td>Clima mas alto</td>
+                                       <%  items.forEach(item => { %>
+                                       <td><a href="/lista/detail/<%=item.Countries.id%>"><%= item.Countries.AltoClima %></a></td>
+                                       <% }) %>
+                                    </tr>
+                                    <tr>
+                                       <td>Clima mas bajo</td>
+                                       <%  items.forEach(item => { %>
+                                       <td><a href="/lista/detail/<%=item.Countries.id%>"><%= item.Countries.BajoClima %></a></td>
+                                       <% }) %>
+                                    </tr>
+                                    <tr>
+                                       <td>PBI</td>
+                                       <%  items.forEach(item => { %>
+                                       <td><a href="/lista/detail/<%=item.Countries.id%>"><%= item.Countries.PBI %></a></td>
+                                       <% }) %>
+                                    </tr>
+                                    <tr>
+                                       <td>PBI per Capital</td>
+                                       <%  items.forEach(item => { %>
+                                       <td><a href="/lista/detail/<%=item.Countries.id%>"><%= item.Countries.PBIperCapital %></a></td>
+                                       <% }) %>
+                                    </tr>
+                                    <tr>
+                                       <td>Inflacion</td>
+                                       <%  items.forEach(item => { %>
+                                       <td><a href="/lista/detail/<%=item.Countries.id%>"><%= item.Countries.Inflacion %></a></td>
+                                       <% }) %>
+                                    </tr>
+                                    
+                              </table>
+                           </div>
+                           
+                           <article class="product-detail-info">
+                              <div class="shop-options">
+                                 <form action="/carrito/deleteallFromCart" method="POST" class="buy-now-cart">
+                                    <input type="hidden" name="userId" value="<%= locals.user.id %>">
+                                    <button type="submit" class="mt-4 buy-now-button">Vaciar  Guardados</button>
+                                 </form>
+                                
+                              </div>
+            
+                           </article>
+                        
+                      
+                    </div>
+                </div>
+            </div>
+            
+        </div>
+                         
+            
+        </div>
+    </div>
+</section>
+
+
+</body>

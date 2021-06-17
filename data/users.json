@@ -1,0 +1,37 @@
+[
+ {
+  "username": "gon",
+  "email": "g@g.com",
+  "password": "$2a$10$LXvG1NZln2Fn4nvP3uUx4eq7ek60Tw.60/eGc.AN4WErwO7cvTXOW",
+  "image": "image-1594420457854.png",
+  "rol": 0
+ },
+ {
+  "username": "gabriel",
+  "email": "gabriellim3001@gmail.com",
+  "password": "$2a$10$fk1alpVFPmf.AA1zmXXJUe2qcJT8Qt3a8zs8AL1DMujqOzmsxImUK",
+  "image": "image-1594500343727.jpg",
+  "rol": 0
+ },
+ {
+  "username": "belen",
+  "email": "belen@gmail.com",
+  "password": "$2a$10$Waghojd0bUqUENpdc.cR2eqeRUEjIas8o8ih2tuwAtLc7zGEZo34u",
+  "image": "image-1594501329500.jpg",
+  "rol": 1
+ },
+ {
+  "username": "shadow",
+  "email": "tutivasquez@hotmail.com",
+  "password": "$2y$10$z5Bvxf5Ahv66Qa8lwclBZe.pxhiVlh8o2RZptOmbZlTk.JruEYHjq",
+  "image": "image-1594501329500.jpg",
+  "rol": 1
+ },
+ {
+  "username": "nuevo",
+  "email": "nuevo@gmaIl.com",
+  "password": "$2a$10$l.9kHtIceS8INSoz5jnBte1DhK42cwj5OkoP7fEFvSfTX1XxkNjCy",
+  "image": "image-1595859395899.jpg",
+  "rol": 0
+ }
+]

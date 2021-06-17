@@ -1,0 +1,72 @@
+
+<!DOCTYPE html>
+
+<html lang="en">
+<%- include('./partials/head', {title: 'Panel de control'}) %>
+<link rel="stylesheet" href="/css/perfile.css">
+
+<body>
+
+    <%- include('./partials/header', {user})%> 
+
+<section class="slicebg-3">
+    <div class="w-section inverse shop">
+        <div class="containerperfil">
+            <div class="misdatos">
+                        <div class="rowperfil">
+                <div class="col-md-3 mt-20">
+                    <h1 class="section-title mi_cuenta"><i class="fa fa-users-cog"></i>&nbsp;PANEL DE CONTROL</h1>
+                    <div class="widget oculto-movil-">
+                        <ul class="categories">
+                            <li class="active"><a href="/perfil/<%= user.id %>"><i class="fa fa-users"></i>&nbsp;Mis datos</a></li>
+                            <li><a href="/carrito/history" class="continuar"><i class="fa fa-shopping-cart "></i>&nbsp;Mis Guardados</a></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-md-8 ml-4 mt-20">
+                    <div class="w-section inverse">
+                        <h3><i class="fa fa-list-alt"></i>&nbsp; USUARIOS</h3>
+                        <table class="table table-cart table-responsive">
+                            <tbody id="contentPedido">
+                            <form id="actualizarCuenta" name="actualizarCuenta" class="col-lg-12" action="/perfil/updaterol" method="POST"> 
+
+                                        
+                                                <select name="username" id="categoryId" class="form-input" value="">
+                                                    <% data.forEach(function(user) {  %>  
+                                                    <option value="<%= user.username %>"> <%= user.username %> </option>
+                                                    <%})%>  
+                                                    </select>                        
+                                                    <!-- <h2 style="color: white;"></h2> -->
+                                                    <!-- <h3></h3>   -->
+                                                    <select name="rol" id="categoryId" class="form-input" value="">
+										             
+                                                    <option value="1"> ADMIN </option>
+                                                    <option value="0"> CLIENT </option>
+                                                     
+                                                    </select>                 
+                                                    
+                                                
+                            
+                                                    
+                                    <div class="col-lg-12 col-xs-12 mt-3 pl-0">
+                                      <button type="submit" class="btn btn-blue"><i class="fa fa-check" aria-hidden="true"></i> Actualizar Rol</button>
+                                     </div>
+                                </div>                       
+                                
+                            </form>   
+                         
+                        
+                        </table>
+                    </div>
+                </div>
+            </div>
+            
+        </div>
+                         
+            
+        </div>
+    </div>
+</section>
+
+
+</body>

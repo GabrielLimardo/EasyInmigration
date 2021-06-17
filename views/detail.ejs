@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="en">
+<%- include('./partials/head', {title: Countries.name }) %>
+<% 
+function round(val) {
+  return Math.round(val*100)/100;
+}
+%>
+<link rel="stylesheet" href="/css/detail.css">
+<link rel="stylesheet" href="/css/normalize.css">
+
+<body class="bodyProducto">
+    <%- include('./partials/header', {user}) %>
+  
+                
+                   <div class="Paisdetalle">
+                      
+
+                        <div id="main-container">
+                              
+                            <table class="tablacarrito">
+                               <thead>
+                                  
+                                  <tr>
+                                     <td>PAIS</td>
+                                     
+                                     <td><a href="/lista/detail/<%=Countries.id%>"><%= Countries.name %></a> </td>
+                                     
+                                     
+                                  </tr>
+                                  
+                               </thead>
+                                 
+                                  <tr>
+                                     <td>IDIOMA</td>
+                                     
+                                     <td><a href="/lista/detail/<%=Countries.id%>"><%= Countries.Idioma %></a></td>
+                                     
+                                  </tr>
+                                  <tr>
+                                     <td>Gasto de Alimento</td>
+                                     
+                                     <td><a href="/lista/detail/<%=Countries.id%>"><%= Countries.GastoAlimento %></a></td>
+                                    
+                                  </tr>
+                                  <tr>
+                                     <td>Gasto de Trasporte</td>
+                                     
+                                     <td><a href="/lista/detail/<%=Countries.id%>"><%= Countries.GastoTrasporte %></a></td>
+                                     
+                                  </tr>
+                                  <tr>
+                                     <td>Gasto de Vivienda</td>
+                                     
+                                     <td><a href="/lista/detail/<%=Countries.id%>"><%= Countries.GastoVivienda %></a></td>
+                                     
+                                  </tr>
+                                  <tr>
+                                     <td>Industrias</td>
+                                     
+                                     <td><a href="/lista/detail/<%=Countries.id%>"><%= Countries.Industrias %></a></td>
+                                     
+                                  </tr>
+                                  <tr>
+                                     <td>Desempleo</td>
+                                     
+                                     <td><a href="/lista/detail/<%=Countries.id%>"><%= Countries.Desempleo %></a></td>
+                                     
+                                  </tr>
+                                  <tr>
+                                     <td>Salario Minimo</td>
+                                     
+                                     <td><a href="/lista/detail/<%=Countries.id%>"><%= Countries.SalarioMinimo %></a></td>
+                                     
+                                  </tr>
+                                  <tr>
+                                     <td>Salario Medio</td>
+                                     
+                                     <td><a href="/lista/detail/<%=Countries.id%>"><%= Countries.SalarioMedio %></a></td>
+                                     
+                                  </tr>
+                                  <tr>
+                                     <td>Tipo de visado</td>
+                                     
+                                     <td><a href="/lista/detail/<%=Countries.id%>"><%= Countries.TipoDeVisado %></a></td>
+                                     
+                                  </tr>
+                                  <tr>
+                                     <td>Servicios Publicos</td>
+                                     
+                                     <td><a href="/lista/detail/<%=Countries.id%>"><%= Countries.ServiciosPublicos %></a></td>
+                                     
+                                  </tr>
+                                  <tr>
+                                     <td>Clima promedio</td>
+                                     
+                                     <td><a href="/lista/detail/<%=Countries.id%>"><%= Countries.PromClima %></a></td>
+                                     
+                                  </tr>
+                                  <tr>
+                                     <td>Clima mas alto</td>
+                                     
+                                     <td><a href="/lista/detail/<%=Countries.id%>"><%= Countries.AltoClima %></a></td>
+                                     
+                                  </tr>
+                                  <tr>
+                                     <td>Clima mas bajo</td>
+                                     
+                                     <td><a href="/lista/detail/<%=Countries.id%>"><%= Countries.BajoClima %></a></td>
+                                     
+                                  </tr>
+                                  <tr>
+                                     <td>PBI</td>
+                                     
+                                     <td><a href="/lista/detail/<%=Countries.id%>"><%= Countries.PBI %></a></td>
+                                     
+                                  </tr>
+                                  <tr>
+                                     <td>PBI per Capital</td>
+                                     
+                                     <td><a href="/lista/detail/<%=Countries.id%>"><%= Countries.PBIperCapital %></a></td>
+                                     
+                                  </tr>
+                                  <tr>
+                                     <td>Inflacion</td>
+                                     
+                                     <td><a href="/lista/detail/<%=Countries.id%>"><%= Countries.Inflacion %></a></td>
+                                     
+                                  </tr>
+                                  
+                            </table>
+                         
+                         
+                        <% if (user.rol === 1) {%>
+                            <a href="/lista/edit/<%= Countries.id %>" class="editButton">EDIT</a>
+                            <a class="delete">
+                                <form id= "trash" action="/lista/delete/<%= Countries.id %>" method="POST" style="display: inline-flex">
+                                    <button  class="delete" type="submit" class="action-button delete">DELETE</button>
+                                </form>
+                            </a>
+                        <% } %>
+                            <form action="/carrito/addToLike" method="POST" style="display: inline-bock">
+                                <p class="error">
+                                    <%= typeof errors == 'undefined' ? '' : errors.quantity ? errors.quantity.msg : '' %>
+                                </p>
+                                <input type="hidden" name="CountriesId" value="<%= Countries.id %>">
+                                <button style="display: inline-block; width: 100%;" type="submit"
+                                    class="mt-4 buy-now-button">GUARDAR</button>
+                            </form>
+                        </div>
+                    </div>
+
+
+    <script type="text/javascript" src="/js/jquery.min.js"></script>
+    <script type="text/javascript" src="/js/jquery.elevatezoom.min.js"></script>
+    <script type="text/javascript" src="/js/main.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@9"></script>		
+	<script src= "/js/sweetAlerts.js"></script>
+
+</body>
+
+</html>

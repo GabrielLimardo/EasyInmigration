@@ -1,0 +1,133 @@
+.containerperfil{
+    align-content: center;
+    text-align:center;
+    justify-items: center;
+    padding-top: 10px;
+}
+
+.misdatos{
+    margin-top: 100px;
+    margin-bottom: 150px;
+    align-content: center;
+    text-align:center;
+    justify-items: center;
+    border: solid 2px;
+    margin-left: 30%;
+    margin-right: 30%;
+    background-color: rgba(0,0,0,0.8);
+    min-width: 250px;
+
+    
+}
+.tablacarrito table{
+    margin: 500px;
+}
+.main-container{
+    align-items: center;
+
+}
+.MISLIKES{
+    margin-top: 100px;
+    margin-bottom: 150px;
+    align-content: center;
+    text-align:center;
+    justify-items: center;
+    margin-left: 30%;
+    margin-right: 30%;
+    min-width: 250px;
+}
+.misdatos div{
+    padding: 5px;
+  
+}
+body{
+    background: rgba(0,0,0,1);
+    background: -moz-linear-gradient(top, rgba(0,0,0,1) 0%, rgba(55,128,191,1) 100%);
+    background: -webkit-gradient(left top, left bottom, color-stop(0%, rgba(0,0,0,1)), color-stop(100%, rgba(55,128,191,1)));
+    background: -webkit-linear-gradient(top, rgba(0,0,0,1) 0%, rgba(55,128,191,1) 100%);
+    background: -o-linear-gradient(top, rgba(0,0,0,1) 0%, rgba(55,128,191,1) 100%);
+    background: -ms-linear-gradient(top, rgba(0,0,0,1) 0%, rgba(55,128,191,1) 100%);
+    background: linear-gradient(to bottom, rgba(0,0,0,1) 0%, rgba(55,128,191,1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#000000', endColorstr='#3780bf', GradientType=0 );
+}    
+.misdatos h3{
+    color: white !important;
+}
+.misdatos label{
+    color: white !important;
+}
+.misdatos h5{
+    color: white !important;
+}
+.misdatos h1{
+    color: white !important;
+    font-size:30px;
+}
+
+
+.misdatos input,
+input:-internal-autofill-selected,
+input:-webkit-autofill,
+input:-webkit-autofill:hover, 
+input:-webkit-autofill:focus, 
+input:-webkit-autofill:active  {
+    background-color: transparent !important;
+    box-shadow: none;
+    border: none;
+    border-bottom: 1px solid #ccc;
+    color: #fff !important;
+}
+
+img.profilePic {
+    width: 20%;
+}
+
+p .error {
+    color: white;
+}
+
+select {
+    background-color: rgba(0,0,0,0.3);
+    border: none;
+    padding: 5px;
+    margin: 5px;
+    color: white;
+}
+
+button{
+    background-color: rgba(0,0,0,0.3);
+    color: white;
+    padding: 5px;
+    margin: 5px;
+}
+@media (max-width: 375px) {
+.misdatos {
+    margin-left: 10% !important;
+    margin-right: 10% !important;
+    
+}
+}
+.rowperfil {
+    box-shadow: -11px 11px 1px rgba(0, 0, 0, 0.3);
+}
+
+a.continuar{
+    list-style: none !important;
+    color: white !important;
+}
+.w-sectioninverse{
+    display: flex;
+}
+
+.categories{
+    list-style: none;
+}
+.containerperfil {
+    padding-bottom: 10px;
+}
+a{
+    color: white !important;
+}
+img.imgWidthCart {
+    width: 30%;
+}
