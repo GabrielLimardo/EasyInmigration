@@ -12,7 +12,7 @@ function round(val) {
 <body class="bodyProducto">
     <%- include('./partials/header', {user}) %>
   
-                
+   <div class="DETAILCONTAINER">             
                    <div class="Paisdetalle">
                       
 
@@ -131,13 +131,19 @@ function round(val) {
                             </table>
                          
                          
-                        <% if (user.rol === 1) {%>
-                            <a href="/lista/edit/<%= Countries.id %>" class="editButton">EDIT</a>
-                            <a class="delete">
+                        <% if (typeof user !== 'undefined' && user.rol === 1) {%>
+                           <div class="editydelete">
+                              <div class="editydelete1">
+                            <a href="/lista/edit/<%= Countries.id %>" class="editadoa">EDITAR</a>
+                           </div>
+                           <div class="editydelete2">
+                              <a class="delete" >
                                 <form id= "trash" action="/lista/delete/<%= Countries.id %>" method="POST" style="display: inline-flex">
-                                    <button  class="delete" type="submit" class="action-button delete">DELETE</button>
+                                    <button  class="delete" type="submit" class="action-button delete"> ELIMINAR</button>
                                 </form>
-                            </a>
+                              </a>
+                           </div>
+                           </div>
                         <% } %>
                             <form action="/carrito/addToLike" method="POST" style="display: inline-bock">
                                 <p class="error">
@@ -145,12 +151,12 @@ function round(val) {
                                 </p>
                                 <input type="hidden" name="CountriesId" value="<%= Countries.id %>">
                                 <button style="display: inline-block; width: 100%;" type="submit"
-                                    class="mt-4 buy-now-button">GUARDAR</button>
+                                    class="mt-4 buy-now-button">COMPARAR</button>
                             </form>
                         </div>
                     </div>
 
-
+                  </div>                
     <script type="text/javascript" src="/js/jquery.min.js"></script>
     <script type="text/javascript" src="/js/jquery.elevatezoom.min.js"></script>
     <script type="text/javascript" src="/js/main.js"></script>

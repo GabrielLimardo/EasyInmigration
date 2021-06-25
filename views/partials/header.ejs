@@ -21,15 +21,15 @@
 	<div class="contenedor">
 		<a href="/" <h2 class="logotipo">EasyInmigration</h2> 
 		<nav>
-			<a href="/" class="activo">Home</a>
-			<a href="/carrito">Saved</a>
+			<a href="/" class="activo">INICIO</a>
+			<a href="/carrito">COMPARAR</a>
 			<% if(typeof user == 'undefined') { %>
-			<a href="/register">Register</a>
-			<a href="/register/login">Login</a>
+			<a href="/register">REGISTRO</a>
+			<a href="/register/login">INICIA SECION</a>
 			
 			<% } else { %>
 			<a class="navLink" href="/perfil/<%= user.id %>"> <%= user.username %> </a>
-            <a class="logout" onclick="logout()">Cerrar Sesión</a>
+            <a class="logout" onclick="logout()">CERRAR SESION</a>
 			<img src="/img/<%= user.image %>" alt="" class="imagenperfil">
 			<% } %>
 	

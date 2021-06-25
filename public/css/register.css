@@ -89,6 +89,11 @@ input:-webkit-autofill:active  {
     box-shadow: 5px 5px 10px rgba(0,0,0, .5);
     margin-bottom: 100px;
 } 
+
+#editycreateForm{
+    height: 1300px;
+}
+
 .form-container i {
     align-items: center;
     border-radius: 60px;

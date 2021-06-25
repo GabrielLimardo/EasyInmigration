@@ -8,6 +8,11 @@
 
     <%- include('./partials/header', {user})%> 
 
+<% if ( items.quantity  == 0 ) {%>
+   <h1>NO TENES PRODUCTOS</h1>
+
+<% } else { %>
+  
 <section class="slicebg-3">
     <div class="w-section inverse shop">
         <div class="containerperfil">
@@ -151,5 +156,6 @@
     </div>
 </section>
 
+ <% } %>
 
 </body>
